@@ -1,0 +1,54 @@
+{
+  "id": "sav-translation-es",
+  "title": "Scum And Villany Spanish Translation",
+  "description": "Este módulo contiene la traducción del sistema de Escoria y Villeza y sus compendios",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "scum-and-villainy",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Chainsafever",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "journal-entries",
+      "label": "Journal Entries",
+      "path": "packs/journal-entries",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "scum-and-villainy",
+      "flags": {}
+    }
+  ]
+}
