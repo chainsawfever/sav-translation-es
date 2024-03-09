@@ -35,7 +35,7 @@
   "authors": [
     {
       "name": "Chainsafever",
-      "flags": {}
+      "email": "chainsawfever@gmail.com"
     }
   ],
   "packs": [
@@ -44,12 +44,11 @@
       "label": "Journal Entries",
       "path": "packs/journal-entries",
       "type": "JournalEntry",
+      "system": "scum-and-villainy",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "scum-and-villainy",
-      "flags": {}
+      }
     }
   ]
 }
