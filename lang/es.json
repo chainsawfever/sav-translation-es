@@ -326,7 +326,7 @@
   "BITD.CrewXPBarSizeHint": "Number of boxes for ship playbook XP bar",
   "BITD.LogResourceToChat": "Log Resources to Chat:",
   "BITD.LogResourceToChatHint": "Log all changes to Ship Actors with a chat notification",
-  "BITD.UseDropdownsInRollDialog": "Use dropdowns in Roll dialogs:",
+  "BITD.UseDropdownsInRollDialog": "Usa dropdowns en los opciones de Tirada:",
   "BITD.UseDropdownsInRollDialogHint": "Use dropdowns instead of radio-button-style selectors for Position and Effect in Roll Dialogs",
   "BITD.TitleIncreaseStatus": "Mejorar estatus",
   "BITD.TitleDecreaseStatus": "Empeorar estatus",
