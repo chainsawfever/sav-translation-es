@@ -31,23 +31,23 @@
             "class": "Mecánico"
         },
         "(Me) Junkyard Hunter": {
-            "name": "(Me) Catador de Ferro-Velho",
-            "description": "Ao adquirir peças ou equipamentos durante a folga, pode ganhar dois recursos ou um recurso com qualidade +1.\n\nSeus contatos do ferro-velho podem obter o que você precisa, reformado ou em oferta especial. Se você ganhar dois recursos, ambos terão a mesma qualidade de sua rolagem.",
+            "name": "(Me) Cazador de chatarra",
+            "description": "Cuando adquieres piezas o equipo durante la fase de descanso, puedes obtener dos activos o un activo con calidad +1.\n\nTus contactos de depósitos de chatarra pueden conseguir lo que necesitas restaurado o en oferta especial. Si ganas dos activos, ambos tienen la misma calidad que tu tirada.",
             "class": "Mecánico"
         },
         "(Me) Mechanic's Heart": {
-            "name": "(Me) Coração do Mecânico",
-            "description": "Ao falar com o seu coração, suas palavras podem alcançar até mesmo o criminoso mais endurecido, e você ganha potência.\n\nEssa habilidade funciona em todas as situações, sem restrição. Se falar genuína e sinceramente, suas palavras serão ouvidas.",
+            "name": "(Me) Corazón de mecánico",
+            "description": "Cuando hablas con sinceridad tus palabras pueden influir incluso en el criminal más duro y ganas eficacia.\n\nEsta habilidad funciona en todas las situaciones sin restricciones. Mientras hables genuina y sinceramente, tus palabras serán escuchadas.",
             "class": "Mecánico"
         },
         "(Me) Overclock": {
             "name": "(Me) Overclock",
-            "description": "Ao gastar um gambito para uma rolagem de montar ou melhorar, trate o sistema em que trabalha como qualidade 1 até o fim do trabalho corrente.\n\nVocê pode fazer uma rolagem de montar durante um trabalho simplesmente para obter mais do sistema, mas esses aumentos temporários são apenas situacionais e precisam ser revertidos na próxima vez que você retornar a doca. Você pode fazer overclock em sistemas que não são naves, melhorando a qualidade deles.",
+            "description": "Cuando gastes un gambito en una tirada de manipular para hacer una reparación o una mejora, trata el sistema que manipulaste como si fuera 1 nivel de calidad más alto durante el resto del trabajo.\n\nPuedes hacer una tirada de manipular durante un trabajo para aprovechar mejor un sistema, pero este tipo de aumentos temporales son solo situacionales y regresarán a su estado normal la próxima vez que entres en un dique de carena. Puedes hacer overclock de sistemas que no pertenezcan a una nave para mejorar su calidad.",
             "class": "Mecánico"
         },
         "(Me) Tinker": {
-            "name": "(Me) Funileiro",
-            "description": "Ao trabalhar em um relógio com montar ou hackear ou ao estudar um esquema, preencha +1 fatia.\n\nObserve que as habilidades iniciais não podem ser escolhidas por meio da habilidade especial de Veterano.\n\nVocê obtém esta fatia de bônus independentemente de se tratar de uma ação de folga ou não. Ou seja, ignorar a segurança em um trabalho ou fazer um remendo de emergência enquanto foge de uma nave perseguidora é mais fácil para você do que para os outros.",
+            "name": "(Me) Trastear",
+            "description": "Cuando trabajas en un reloj con manipular o hackear, o cuando decides estudiar un esquema, rellena 1 sector.\n\nObtienes el sector adicional sin importar si se trata de una acción de la fase de descanso o no. Esto significa que es más fácil para ti que para otros eludir la seguridad durante un trabajo o hacer un parche de emergencia mientras escapas de una nave que te persigue.",
             "class": "Mecánico"
         },
         "(Me) Xeno": {
