@@ -42,7 +42,7 @@
         },
         "(Me) Overclock": {
             "name": "(Me) Overclock",
-            "description": "Cuando gastes un gambito en una tirada de manipular para hacer una reparación o una mejora, trata el sistema que manipulaste como si fuera 1 nivel de calidad más alto durante el resto del trabajo.\n\nPuedes hacer una tirada de manipular durante un trabajo para aprovechar mejor un sistema, pero este tipo de aumentos temporales son solo situacionales y regresarán a su estado normal la próxima vez que entres en un dique de carena. Puedes hacer overclock de sistemas que no pertenezcan a una nave para mejorar su calidad.",
+            "description": "Cuando gastes un gambito en una tirada de manipular para hacer una reparación o una mejora, trata el sistema que manipulaste como si fuera 1 nivel de calidad más alto durante el resto del trabajo.\n\nPuedes hacer una tirada de manipular durante un trabajo para aprovechar mejor un sistema, pero este tipo de aumentos temporales son solo situacionales y regresarán a su estado normal la próxima vez que entres en un dique de carena. Puedes hacer overclock de sistemas que no pertenezcan a una nave para mejorar su calidad.\n\nTen en cuenta que las habilidades iniciales no se pueden elegir a través de la habilidad especial Veterano.",
             "class": "Mecánico"
         },
         "(Me) Tinker": {
@@ -52,58 +52,58 @@
         },
         "(Me) Xeno": {
             "name": "(Me) Xeno",
-            "description": "Você pode gastar Estresse (0-2) para realizar um feito sobrehumano que apenas os membros de sua espécie são capazes. (Página 296)\n\nCada espécie possui Mecânicos, então, ao jogar com um xeno, considere como esse xenótipo se relaciona com as máquinas.\n\nAlguns xenos têm uma relação incomum com a tecnologia (particularmente a baseada em Ur), como os Sah’iir, enquanto outros usam materiais incomuns, como o Mem.",
+            "description": "Puedes gastar Estrés (0-2) para realizar una hazaña sobrehumana que solo los miembros de tu especie son capaces de realizar. (Página 296)\n\nTodas las especies tienen Mecánicos, así que cuando interpretes a un xeno, considera cómo su xenotipo se relaciona con las máquinas.\n\n Algunos xenos tienen una relación inusual con la tecnología (en especial con la tecnología Ur), como los sah'iir, mientras que otros usan materiales inusuales, como los memitas.",
             "class": "Mecánico"
         },
         "(Mu) Backup": {
-            "name": "(Mu) Reforço",
-            "description": "O esforço de um aliado custa 1 de estresse (não 2) em qualquer ação que você facilitar ou ajudar.\n\nAs ações de facilitação e ajuda (consulte a página 158) ainda concedem seus dados extras ou efeito como de costume.",
-            "class": "Músculo"
+            "name": "(Mu) Refuerzos",
+            "description": "El esfuerzo de un aliado cuesta 1 punto de estrés (en lugar de 2) en cualquier acción de preparación o de ayuda.\n\nLas acciones preparar y ayudar (consulta la página 158) todavía te dan dados de bonificación o efecto como de costumbre.",
+            "class": "Matón"
         },
         "(Mu) Battleborn": {
-            "name": "(Mu) Nascido para a Batalha",
-            "description": "Você pode gastar sua armadura especial para reduzir os danos de um ataque em combate ou para se esforçar durante uma luta.\n\nAo usar essa habilidade, marque a caixa de armadura na sua cartilha. “Reduzir o dano” significa reduzir o dano em um nível. Se usar esta habilidade para se esforçar, você obtém um dos benefícios (+1d, +1 efeito, agir apesar de danos graves), mas não recebe 2 de estresse. Sua armadura especial é reestabelecida ao selecionar sua carga no início de um trabalho.",
-            "class": "Músculo"
+            "name": "(Mu) Guerrero Nato",
+            "description": "Puedes gastar tu protección especial para reducir el daño de un ataque en combate o para esforzarte durante una pelea.\n\nCuando uses esta habilidad, marca la casilla de protección especial en tu hoja de libreto. «Reducir el daño» significa que su nivel disminuye en 1. Si usas esta habilidad para esforzarte, obtienes uno de los beneficios (+1d, efecto +1, actuar a pesar del daño grave) sin sufrir los 2 puntos de estrés. Tu protección especial se restablece cuando seleccionas tu carga al comienzo de un trabajo.",
+            "class": "Matón"
         },
         "(Mu) Bodyguard": {
-            "name": "(Mu) Guarda-Costas",
-            "description": "Ao proteger um membro da tripulação, resista com +1d. Ao levar dano, elimine 1 de estresse.\n\nA manobra de proteção de trabalho em equipe (consulte a página 158) permite a você enfrentar uma consequência por um colega de equipe.",
-            "class": "Músculo"
+            "name": "(Mu) Guardaespaldas",
+            "description": "Resiste con +1d cuando protejas a un compañero de tripulación. Cuando recibas daño, elimina 1 punto de estrés.\n\nLa maniobra de trabajo en equipo proteger (consulta la página 160) te permite enfrentarte a una consecuencia en lugar de que lo haga tu compañero de equipo.",
+            "class": "Matón"
         },
         "(Mu) Flesh Wound": {
-            "name": "(Mu) Ferimento Leve",
-            "description": "Se você estiver ferido no início da folga, marque +3 fatias em seu relógio de cura.\n\nAo se esforçar para ignorar as penalidades por ferimentos, recebe apenas 1 de estresse (não 2).\n\nTalvez você seja naturalmente resistente, as feridas não te incomodam. Consulte Recuperar na página 187 para obter mais informações.",
-            "class": "Músculo"
+            "name": "(Mu) Herida Superfial",
+            "description": "Si estás herido al comienzo de la fase de descanso, rellena 3 sectores en tu reloj de curación. Cuando te esfuerzas para ignorar las penalizaciones por heridas, solo sufres 1 punto de estrés (en lugar de 2).\n\nAo se esforçar para ignorar as penalidades por ferimentos, recebe apenas 1 de estresse (não 2).\n\nYa seas resistente por naturaleza o lo hayas desarrollado de alguna manera, las heridas no te abaten. Si quieres más información, consulta Curación en la página 186.",
+            "class": "Matón"
         },
         "(Mu) Predator": {
-            "name": "(Mu) Predador",
-            "description": "Receba +1d em rolagens contra alvos enfraquecidos ou vulneráveis.\n\nSempre ao levantar informações sobre uma fraqueza ou vulnerabilidade, o pior que pode obter é um resultado 4/5.\n\nVocê sabe como aproveitar o medo, a dor e a vulnerabilidade para conseguir o que quer. Ao tentar descobrir essas sensações em uma pessoa, você geralmente inventa algo, mesmo que a informação não seja imediatamente útil ou que esteja incompleta. Alguém em um estado vulnerável pode estar drogado, gravemente ferido ou amedrontado.",
-            "class": "Músculo"
+            "name": "(Mu) Depredador",
+            "description": "Añade +1d a tiradas contra objetivos debilitados o vulnerables. Cada vez que busques información sobre una debilidad o vulnerabilidad, el peor resultado que puedes obtener es un 4/5\n\nSabes cómo aprovechar el miedo, el dolor y la vulnerabilidad de otros para salirte con la tuya. Cuando tratas de averiguar esas cosas en una persona, sueles descubrir algo, incluso si la información no es útil de inmediato o está incompleta. Se considera a alguien vulnerable si está drogado, confiado, gravemente herido o asustado.",
+            "class": "Matón"
         },
         "(Mu) Ready For Anything": {
-            "name": "(Mu) Pronto para o que Vier",
-            "description": "Ao ser emboscado, você ganha potência para todas as ações durante um flashback, e seu primeiro flashback custa 0 de estresse.\n\nVocê sempre espera por emboscadas e se prepara para elas. Lembre-se de tal preparação quando uma emboscada acontecer. Se a sua preparação requer rolagens de ação, você ganha potência nelas.",
-            "class": "Músculo"
+            "name": "(Mu) Preparado Para Todo",
+            "description": "Cuando te emboscan, ganas eficacia para todas las acciones durante una escena retrospectiva. Además, tu primera escena retrospectiva cuesta 0 puntos de estrés.\n\nSiempre cuentas con las emboscadas y te preparas para ellas. Cuando caigas en una emboscada, haz una escena retrospectiva a tu preparación para ella. Si tu preparación requiere tiradas de acción, ganas eficacia en estas.",
+            "class": "Matón"
         },
         "(Mu) Scary": {
-            "name": "(Mu) Assustador",
-            "description": "Você exala um ar de ameaça e perigo óbvio.\n\nGanhe potência ao tentar intimidar alguém. Se feito imediatamente após uma demonstração de força, também receba +1d.\n\nVocê instila medo nas pessoas ao seu redor, principalmente quando fica violento. Como reagem depende delas. Algumas fugirão de você, algumas ficarão impressionadas, algumas se tornarão violentas em contrapartida. O Mestre julga a resposta de um determinado PdM.\n\nA intimidação geralmente é tratada com uma rolagem de co mandar , e seus esforços para fazer isso terão mais sucesso se você mostrar que está falando sério.",
-            "class": "Músculo"
-        },
-        "(Mu) Unstoppable": {
-            "name": "(Mu) Imparável",
-            "description": "Você pode se esforçar para fazer uma das seguintes coisas:\n\nrealizar um feito de força física beirando o sobre-humano – encarar uma pequena gangue em pé de igualdade no combate corpo a corpo.\n\nObserve que as habilidades iniciais não podem ser escolhidas por meio da habilidade especial de Veterano.\n\nAo se esforçar para ativar essa habilidade, você ainda obtém um dos benefícios normais de se esforçar (+1d, +1 efeito, etc.) além da habilidade especial.\n\nUm feito sobre-humano é aquele que uma pessoa normal não poderia realizar sem ajuda, como romper algemas de metal. Se você enfrentar uma pequena gangue em pé de igualdade, terá a mesma escala.",
-            "class": "Músculo"
+            "name": "(Mu) Aterrador",
+            "description": "Tienes un aire intimidante y peligroso que resulta obvio incluso para los más despistados. \n\nGanas eficacia cuando intentas intimidar a alguien. También recibes +1d si lo haces inmediatamente después de una demostración de fuerza.\n\nInspiras miedo en los que te rodean, especialmente cuando te pones violento. La forma en que reaccionan depende de ellos. Algunos huirán de ti, algunos quedarán impresionados, otros responderán con violencia. El DJ determina la respuesta de cualquier PNJ en concreto.\n\nLa intimidación se suele acompañar de una tirada de mandar, y tus esfuerzos tienen más éxito si demuestras que hablas en serio.",
+            "class": "Matón"
         },
         "(Mu) Wrecking Crew": {
-            "name": "(Mu) Equipe de Demolição",
-            "description": "Sua força e ferocidade são infames. Ao atacar em combate corpo a corpo, você ganha +1d.\n\nAo gastar um gambito em combate, você também ganha +1 de efeito naquela ação.\n\nQuer você seja um mestre das artes marciais ou tenha sido criado por místicos para lutar com armas antigas, sua habilidade marcial no combate corpo a corpo é lendária (e pode atrair aqueles os quais desejam aprender ou desafiá-lo).\n\nSe gastar uma rolagem em combate, receba +1 de efeito naquela ação. Isso pode atingir um único oponente com mais força ou compensar as penalidades de escala ou qualidade. Isso também se acumula com o +1d do gambito e o +1d da habilidade principal de Equipe de Demolição.",
-            "class": "Músculo"
+            "name": "(Mu) Equipo de Demoloción",
+            "description": "Tu fuerza y ferocidad son célebres. Al golpear en cuerpo a cuerpo, ganas +1d. Cada vez que gastas un gambito en combate, también ganas efecto +1 en esa acción.\n\nYa seas un maestro de las artes marciales o alguien criado por los místicos para luchar con armas antiguas, tu destreza marcial en combate cuerpo a cuerpo es legendaria (y puede atraer a aquellos que desean aprender de ti o desafiarte).\n\nSi gastas un gambito en combate, suma efecto +1 a esa acción. Con esto puedes golpear más duro a un oponente o compensar las penalizaciones de escala o calidad. Esto también se acumula con el +1d del gambito y el +1d de la habilidad especial de Equipo de Demolición.",
+            "class": "Matón"
+        },
+        "(Mu) Unstoppable": {
+            "name": "(Mu) Imparable",
+            "description": "Puedes esforzarte para hacer una de las siguientes cosas: realizar una hazaña de fuerza física que raya en lo sobrehumano o enfrentarte a una pequeña pandilla en pie de igualdad durante un combate cuerpo a cuerpo.\n\nCuando te esfuerzas para activar esta habilidad, aún obtienes uno de los beneficios normales de esforzarte (+1d, efecto +1, etc.), además de la habilidad especial.\n\nUna hazaña sobrehumana es algo que una persona normal no podría hacer sin ayuda, como romper esposas de metal. Si te enfrentas a una pequeña pandilla en igualdad de condiciones, tienes la misma escala.\n\nTen en cuenta que las habilidades iniciales no se pueden elegir a través de la habilidad especial Veterano.",
+            "class": "Matón"
         },
         "(Mu) Xeno": {
             "name": "(Mu) Xeno",
-            "description": "Você pode gastar Estresse (0-2) para realizar um feito sobrehumano que apenas os membros de sua espécie são capazes. (Página 296)\n\nDe Worf a D’Argo e Chewbacca, alienígenas poderosos em batalha têm sido uma necessidade do gênero ópera espacial. A habilidade inicial do Músculo é significativa, mas muitos xenos têm uma força muito além da de um ser humano normal.\n\nAlguns podem ter mais membros ou adaptações para ambientes hostis.\n\nConsidere como sua hereditariedade xeno possa torná-lo um Músculo mais útil e converse com sua mesa sobre como você deseja usar sua habilidade Xeno.",
-            "class": "Músculo"
+            "description": "Puedes gastar Estrés (0-2) para realizar una hazaña sobrehumana que solo los miembros de tu especie son capaces de realizar. (Página 296)\n\nDesde Worf hasta D’Argo y Chewbacca, los alienígenas poderosos al pelear han sido un elemento básico del género de la space opera. La habilidad inicial del Matón es significativa, pero muchos xenos tienen una fuerza mucho mayor que la de un humano normal. Algunos pueden tener más extremidades o adaptaciones ideales para ambientes hostiles. Piensa en cómo tu legado xeno podría hacer más útil a tu Matón, y habla con tu mesa respecto a cómo quieres usar tu habilidad xeno.",
+            "class": "Matón"
         },
         "(My) Center": {
             "name": "(Mi) Centro",
@@ -111,28 +111,28 @@
             "class": "Místico"
         },
         "(My) Kinetics": {
-            "name": "(Mi) Telecinese",
-            "description": "Você pode se esforçar para fazer o seguinte: usar o Caminho para arremessar um objeto do tamanho de uma mesa com força perigosa – impulsionar-se brevemente com velocidade sobre-humana.\n\nForça perigosa significa ser rápido o suficiente para ferir gravemente uma pessoa normal. Velocidade sobre-humana significa ser rápido o bastante para que você seja pouco mais que um borrão. Seu alcance é aproximadamente do tamanho de uma grande sala. Sim, pessoas podem contar como objetos.",
+            "name": "(Mi) Cinética",
+            "description": "Puedes esforzarte para hacer una de las siguientes acciones: usar la Senda para lanzar un objeto del tamaño de una mesa con una fuerza peligrosa o impulsarte brevemente con una velocidad sobrehumana.\n\nUna fuerza peligrosa significa que es tan fuerte como para lastimar de gravedad a una persona normal. Velocidad sobrehumana significa lo suficientemente rápido como para que apenas seas más que un borrón. Tu alcance es del tamaño de una habitación grande. Sí, la gente puede contar como objetos.",
             "class": "Místico"
         },
         "(My) Psy-blade": {
-            "name": "(Mi) Psi-Lâmina",
-            "description": "Você pode concentrar a energia do Caminho em sua arma corpo a corpo.\n\nEnquanto carregada, a arma pode cortar materiais não protegidos com facilidade e você ganha potência em ataques corpo a corpo.\n\nPlacas de metal pesado não são blindadas, portanto, você pode cortar a maioria das portas sem problemas. Construções blindadas são raras, mas oferecem proteção suficiente para que o ataque perca sua potência. Você não pode infundir seus punhos com a energia (ou luvas, soqueiras, etc.).",
+            "name": "(Mi) Espada Psíquica",
+            "description": "Puedes enfocar la energía de la Senda en tu arma cuerpo a cuerpo. Mientras esté cargada, el arma puede cortar materiales desprotegidos con facilidad y ganas eficacia en tus ataques cuerpo a cuerpo.\n\nLas placas de metal pesado no están blindadas, así que puedes cortar la mayoría de las puertas sin problemas. Las construcciones blindadas son poco frecuentes, pero ofrecen suficiente protección como para que este ataque pierda su eficacia. No puedes infundir tus puños con energía de la Senda (o guantes, puños americanos, etc.).",
             "class": "Místico"
         },
         "(My) Psy-dancing": {
-            "name": "(Mi) Psi-Dança",
-            "description": "Você pode se esforçar para turvar a mente de um alvo e convencê-lo diante de evidências contraditórias.\n\n“Faça o que eu digo. Eu sou o embaixador.”\n\nGaste 1 de estresse para cada recurso adicional: eles têm apenas memórias vagas do evento – funciona em um pequeno grupo.\n\nEssas confusões não persistem indefinidamente, embora aqueles com memórias vagas muitas vezes preencham os detalhes ausentes com suposições. “Devo ter verificado o distintivo dela. Eu sempre verifico.”",
+            "name": "(Mi) Baile Psíquico",
+            "description": "Puedes esforzarte para nublar la mente de un objetivo y convencerlo frente a evidencias contradictorias. «Debes hacer lo que te digo. Yo soy el embajador». Gasta 1 punto de estrés por cada característica adicional: solo tiene recuerdos vagos del evento, funciona en un grupo pequeño\n\nEstas confusiones no persisten para siempre, aunque aquellos que tengan recuerdos vagos a menudo llenarán los detalles faltantes con suposiciones. «Debo haber comprobado su placa. Siempre lo hago».  ",
             "class": "Místico"
         },
         "(My) Sundering": {
             "name": "(Mi) Separação",
-            "description": "Você pode se esforçar para sintonizar com o Caminho e distorcê-lo, causando dano psíquico a qualquer pessoa na área vulnerável ao seu ataque.\n\nVocê pode gastar 1 de estresse para cada característica adicional:\n- causa dano em vez de atordoar\n- você e qualquer pessoa que escolher recebem +2d para resistir aos efeitos.\n\nVocê distorce o Caminho dentro de você e, por extensão, distorce o Caminho nos outros – uma proposição arriscada na melhor das hipóteses. Separação não pode prejudicar objetos inanimados. Ao causar danos, os sintomas podem incluir convulsões de curto prazo e vasos sanguíneos rompidos. Aqueles especialmente treinados para resistir a ataques psíquicos ou de alguma forma protegidos podem reduzir seu efeito.",
+            "description": "Puedes esforzarte para armonizar con la Senda y retorcerla, causando daño psíquico a cualquier persona en el área que sea vulnerable a tu ataque. Puedes gastar 1 punto de estrés por cada característica adicional: dañar en lugar de aturdir, tú y cualquier persona que elijas obtenéis +2d para resistir los efectos.\n\nDeformas la Senda dentro de ti, y por extensión deformas la Senda en otros, lo que en el mejor de los casos es una idea arriesgada. Ruptura no puede dañar objetos inanimados. Cuando causas daño, los síntomas pueden incluir convulsiones a corto plazo y vasos sanguíneos rotos. Aquellos que están entrenados especialmente para resistir ataques psíquicos o que de alguna manera están protegidos, pueden reducir su efecto.",
             "class": "Místico"
         },
         "(My) The Way": {
-            "name": "(Mi) O Caminho",
-            "description": "Você pode gastar um gambito em vez de pagar qualquer custo de estresse.\n\nObserve que as habilidades iniciais não podem ser escolhidas por meio da habilidade especial de Veterano.\n\nAo precisar gastar estresse, você pode fazer uma rolagem arriscada. Isso inclui resistências e custos de esforço. Para habilidades que tenham custo variável, como Separação, esses custos adicionais vão ser todos parte da mesma ativação, então o esforço e todos os recursos adicionais juntos custam apenas um gambito.",
+            "name": "(Mi) La Senda",
+            "description": "Puedes gastar un gambito en lugar de pagar cualquier coste de estrés.\n\nObserve que as habilidades iniciais não podem ser escolhidas por meio da habilidade especial de Veterano.\n\nAo precisar gastar estresse, você pode fazer uma rolagem arriscada. Isso inclui resistências e custos de esforço. Para habilidades que tenham custo variável, como Separação, esses custos adicionais vão ser todos parte da mesma ativação, então o esforço e todos os recursos adicionais juntos custam apenas um gambito.",
             "class": "Místico"
         },
         "(My) Visions": {
