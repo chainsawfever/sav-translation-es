@@ -27,8 +27,8 @@
         "Pilot": {
             "name": "Piloto",
             "description": "Un mago de las naves y adicto al peligro",
-            "experience_clues": "Ao jogar como Piloto, ganhe xp ao enfrentar desafios com velocidade ou habilidade.",
-            "def_abilities": "(P) Piloto Ás, Yattu, Triv, Choss, Meris, Mav"
+            "experience_clues": "Cuando interpretas a un piloto, ganas px al abordar desafíos con velocidad o estilo.",
+            "def_abilities": "(P) Piloto Estrella, Yattu, Triv, Choss, Meris, Mav"
         },
         "Scoundrel": {
             "name": "Canalla",
