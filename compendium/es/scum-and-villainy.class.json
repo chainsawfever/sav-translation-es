@@ -1,0 +1,52 @@
+{
+    "label": "Libretos",
+    "mapping": {
+        "description": "system.description",
+        "experience_clues": "system.experience_clues",
+        "def_abilities": "system.def_abilities"
+    },
+    "entries": {
+        "Mechanic": {
+            "name": "Mecánico",
+            "description": "Un adicto a la mecánica y un hacker",
+            "experience_clues": "Cuando interpretas a un mecánico, ganas px por abordar desafíos con habilidad técnica o ingenio.",
+            "def_abilities": "(Me) Trastear, Slice, Nisa, Stev, Len, Kenn"
+        },
+        "Muscle": {
+            "name": "Matón",
+            "description": "Un luchador peligroso e intimidante",
+            "experience_clues": "Cuando interpretas a un Matón, ganas px cuando abordas desafíos con fuerza o amenazas.",
+            "def_abilities": "(Mu) Imparable7, Krieger, Shod, Chon-zek, Yazu, Aya"
+        },
+        "Mystic": {
+            "name": "Místico",
+            "description": "Un nómada galáctico en contacto con la Senda",
+            "experience_clues": "Cuando interpretas a un Místico, ganas px al abordar desafíos con sabiduría o usando la Senda.",
+            "def_abilities": "(Mi) La Senda, Horux, Hicks, Laxx, Rye, Blish"
+        },
+        "Pilot": {
+            "name": "Piloto",
+            "description": "Un mago de las naves y adicto al peligro",
+            "experience_clues": "Ao jogar como Piloto, ganhe xp ao enfrentar desafios com velocidade ou habilidade.",
+            "def_abilities": "(P) Piloto Ás, Yattu, Triv, Choss, Meris, Mav"
+        },
+        "Scoundrel": {
+            "name": "Canalla",
+            "description": "Un desaliñado y afortunado superviviente",
+            "experience_clues": "Cuando interpretas a un canalla, ganas px al abordar desafíos con encanto o audacia",
+            "def_abilities": "(Ma) Afortunado, Nyx, Ora, Jal, Rhin, Battro"
+        },
+        "Speaker": {
+            "name": "Orador",
+            "description": "Una persona respetable que está en el ajo",
+            "experience_clues": "Cuando interpretas a un Orador, ganas px al abordar desafíos con engaño o influencia.",
+            "def_abilities": "(Com) Aire Respetable, Arryn, Manda, Kerry, Je-zee, ?"
+        },
+        "Stitch": {
+            "name": "Matasanos",
+            "description": "Curandero o científico espacial",
+            "experience_clues": "Cuando interpretes un Matasanos, ganas px al abordar desafíos con perspicacia o compasión.",
+            "def_abilities": "(Cos) Soy un doctor, no un..., Jackev, Alben, Ditha, Juda, Lynie"
+        }
+    }
+}

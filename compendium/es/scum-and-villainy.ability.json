@@ -1,13 +1,13 @@
-{
+{    
     "label": "Habilidades",
     "mapping": {
-        "description": "data.description",
-        "class": "data.class"
+        "description": "system.description",
+        "class": "system.class"
     },
     "entries": {
         "(Me) Analyst": {
             "name": "(Me) Analista",
-            "description": "Cuando hackeas un sistema, también puedes hacer una pregunta sobre el propietario o la ubicación del sistema como si hubieras conseguido un 6 en la tirada de buscar información.\n\nCuando resistas las consecuencias de hackear, añade +1d a tu tirada.\n\nSin importar la razón por la que estás hackeando, aprendes algo sobre los sistemas que estás manipulando. Si estabas buscando información, puedes hacer una tirada para averiguar una cosa más o simplemente aceptar el 6 para lo que querías saber.",
+            "description": "Cuando hackeas un sistema, también puedes hacer una pregunta sobre el propietario o la ubicación del sistema como si hubieras conseguido un 6 en la tirada de buscar información.\n\nCuando resistas las consecuencias de Hackear, añade +1d a tu tirada.\n\nSin importar la razón por la que estás hackeando, aprendes algo sobre los sistemas que estás manipulando. Si estabas buscando información, puedes hacer una tirada para averiguar una cosa más o simplemente aceptar el 6 para lo que querías saber.",
             "class": "Mecánico"
         },
         "(Me) Bailing Wire and Mech Tape": {
@@ -42,12 +42,12 @@
         },
         "(Me) Overclock": {
             "name": "(Me) Overclock",
-            "description": "Cuando gastes un gambito en una tirada de manipular para hacer una reparación o una mejora, trata el sistema que manipulaste como si fuera 1 nivel de calidad más alto durante el resto del trabajo.\n\nPuedes hacer una tirada de manipular durante un trabajo para aprovechar mejor un sistema, pero este tipo de aumentos temporales son solo situacionales y regresarán a su estado normal la próxima vez que entres en un dique de carena. Puedes hacer overclock de sistemas que no pertenezcan a una nave para mejorar su calidad.\n\nTen en cuenta que las habilidades iniciales no se pueden elegir a través de la habilidad especial Veterano.",
+            "description": "Cuando gastes un Gambito en una tirada de Manipular para hacer una reparación o una mejora, trata el sistema que manipulaste como si fuera 1 nivel de calidad más alto durante el resto del trabajo.\n\nPuedes hacer una tirada de Manipular durante un trabajo para aprovechar mejor un sistema, pero este tipo de aumentos temporales son solo situacionales y regresarán a su estado normal la próxima vez que entres en un dique de carena. Puedes hacer overclock de sistemas que no pertenezcan a una nave para mejorar su calidad.\n\nTen en cuenta que las habilidades iniciales no se pueden elegir a través de la habilidad especial Veterano.",
             "class": "Mecánico"
         },
         "(Me) Tinker": {
             "name": "(Me) Trastear",
-            "description": "Cuando trabajas en un reloj con manipular o hackear, o cuando decides estudiar un esquema, rellena 1 sector.\n\nObtienes el sector adicional sin importar si se trata de una acción de la fase de descanso o no. Esto significa que es más fácil para ti que para otros eludir la seguridad durante un trabajo o hacer un parche de emergencia mientras escapas de una nave que te persigue.",
+            "description": "Cuando trabajas en un reloj con Manipular o Hackear, o cuando decides estudiar un esquema, rellena 1 sector.\n\nObtienes el sector adicional sin importar si se trata de una acción de la fase de descanso o no. Esto significa que es más fácil para ti que para otros eludir la seguridad durante un trabajo o hacer un parche de emergencia mientras escapas de una nave que te persigue.",
             "class": "Mecánico"
         },
         "(Me) Xeno": {
