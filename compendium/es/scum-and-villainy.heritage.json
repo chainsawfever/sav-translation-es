@@ -1,0 +1,32 @@
+{
+    "label": "Legado",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": {
+        "Colonist": {
+            "name": "Colonos",
+            "description": "La columna vertebral de la Hegemonía, granjeros, mineros y terraformadores. Además de luchar para ganarse la vida en las fronteras de los planetas, estas personas están más acostumbradas que la mayoría a lidiar con bestias alienígenas y extrañas ruinas de los Precursores."
+        },
+        "Imperial": {
+            "name": "Imperial",
+            "description": "Aquellos con legado Imperial provienen de Warren o de los mundos del Núcleo.\n\nFuiste educado como dicta la Hegemonía, a través de una formación vocacional del Gremio, enseñanzas de una secta o los tutores de una familia noble."
+        },
+        "Manufactured": {
+            "name": "Manufactorado",
+            "description": "Las \"Famílias\" Manufactoradas son controladas de alguna manera por los gre- mios; por ejemplo, un clon Yaru que se ha escapado de una instalación o un urbot que ha evitado las limpiezas de memoria rutinarias.\n\nEs posible que a menudo tengas que ocultar tu origen e independencia."
+        },
+        "Spacer": {
+            "name": "Espacial",
+            "description": "SSi prefieres sentirte como en casa dentro de una nave chirriante, podrías pertenecer a una familia espacial. Los mineros de hielo, los mecánicos de estaciones y la mayoría de los comerciantes nacen, envejecen y mueren en el espacio, y pueden o no considerar sospechosas tus aventuras terrestres."
+        },
+        "Wanderer": {
+            "name": "Nómada",
+            "description": "Se não quiser um planeta para chamar de lar, você poderá ser de uma hereditariedade Andarilha.\n\nUma pequena, mas notável, parte da Hegemonia se move de um planeta a outro, conforme as oportunidades surjam e os ciclos econômicos galácticos mudem. Ou apenas deixe o Caminho te levar."
+        },
+        "Xeno": {
+            "name": "Xeno",
+            "description": "Las familias xeno son tan diversas como los innumerables tipos de xenos en la galaxia. Te criaste en una cultura no humana. Los xenos luchan por encontrar aceptación en la Hegemonía, y muchas de sus prácticas son vistas como extrañas o inusuales."
+        }
+    }
+}
