@@ -16,8 +16,7 @@
             "name": "Firedrake",
             "description": "Rebeldes y criminales. Pretenden proteger a los oprimidos y luchar contra la Hegemonía.",
             "experience_clues": "Ganáis px cuando ejecutáis con éxito un trabajo que se opone al dominio hegemónico.",
-            "def_abilities": "(Ar)  Cañones
-            de partículas, (Mo) Drive de Salto, (Ca) Alojamentos da Tripulação, (M) Shuttle, (A) Escudos, Corveta, Garin, Tyura, Ada Black, Tiko Lux, Ibo-one"
+            "def_abilities": "(Mo) Impulsor de saltos, (Ca) Alojamentos da Tripulação, (Ar) Cañones de partículas, (Au) Escudos, (Eq) Transbordador, Corveta, Garin, Tyura, Ada Black, Tiko Lux, Ibo-one"
         },
         "Stardancer": {
             "name": "Stardancer",
