@@ -1,0 +1,40 @@
+{
+    "label": "Reputação da Tripulação",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": {
+        "Ambitious": {
+            "name": "Ambiciosos",
+            "description": "Tenéis o demostrais un fuerte deseo y determinación de triunfar."
+        },
+        "Brutal": {
+            "name": "Despiadados",
+            "description": "Extremamente violentos."
+        },
+        "Daring": {
+            "name": "Osados",
+            "description": "Aventuraros o audaces"
+        },
+        "Honorable": {
+            "name": "Honorables",
+            "description": "Dignos de honor."
+        },
+        "Professional": {
+            "name": "Profesionales",
+            "description": "Tenéis las cualidades propias de personas formadas y cualificadas, tales como eficacia, habilidad, organización y seriedad."
+        },
+        "Savvy": {
+            "name": "Experiente",
+            "description": "Astuto e experiente; ter bom senso e boa capacidade de julgamento da situação."
+        },
+        "Strange": {
+            "name": "Extraños",
+            "description": "Inusuales o sorprendentes de una manera inquietante o difícil de entender."
+        },
+        "Subtle": {
+            "name": "Sutiles",
+            "description": "Usáis métodos inteligentes e indirectos para lograr algo."
+        }
+    }
+}
