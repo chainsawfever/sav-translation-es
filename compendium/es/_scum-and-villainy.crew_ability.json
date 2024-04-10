@@ -1,0 +1,114 @@
+{
+    "label": "Habilidades da Nave",
+    "mapping": {
+        "description": "system.description",
+        "class": "system.class"
+    },
+    "entries": {
+        "(C) Deadly": {
+            "name": "(C) Letales",
+            "description": "Cada miembro de la tripulación puede añadir 1 valor de acción a combatir, mandar u ocultar (hasta un máximo de 3)\n\nCada jugador puede elegir la acción que prefiera (no todos tienen que elegir la misma). Si tomáis esta habilidad durante la creación de personajes y de la tripulación, reemplaza el límite de inicio normal para los valores de acción.",
+            "class": "Cerberus"
+        },
+        "(C) Licensed": {
+            "name": "(C) Autorizados",
+            "description": "Recibís riesgo -2 en cualquier trabajo de cazarrecompensas legítimo. \n\nLa nave puede llevar armas de partículas y vuestra tripulación puede llevar y usar legalmente blásteres pesados durante la búsqueda de un objetivo\n\nEsto también significa que lleváis encima licencias de cazarrecompensas. A veces puedes usarlas para explicar por qué estás donde no deberías y para llevar armas cuando a otros se las quitarían. La cooperación de la ley varía de planeta en planeta.",
+            "class": "Cerberus"
+        },
+        "(C) Light Touch": {
+            "name": "(C) Toque Ligero",
+            "description": "Ganáis eficacia cuando seguís a un objetivo o cuando intentáis buscar información en la ubicación anterior de un objetivo.\n\nLas ubicaciones anteriores pueden incluir lugares dónde pasaron la noche, escenas del crimen, bares favoritos y similares. También lo podéis usar para rastrearlo si estáis tras su pista.",
+            "class": "Cerberus"
+        },
+        "(C) Loaded For Bear": {
+            "name": "(C) Armada Hasta Los Dientes",
+            "description": "La tripulación puede llevar carga +1. Tenéis una protección distintiva y de alta calidad. \n\nCuando usáis protección, cuenta como protección pesada (dos usos)\n\nLos máximos de carga de toda la tripulación aumentan (por lo que carga ligera es 1-4, la normal 5-6 y la pesada 7-9). ¿Quién hizo una protección tan distintiva, y quién podría reconocer quién la hizo? La protección pesada también os permite rellenar la segunda casilla de protección (pesada) en la hoja para reducir el daño apropiado.",
+            "class": "Cerberus"
+        },
+        "(C) On the Trail": {
+            "name": "(C) Tras El Rastro",
+            "description": "La tripulación gana una tarea de la fase de descanso adicional para trabajar en proyectos a largo plazo o adquirir activos para rastrear objetivos.\n\nA veces conocéis al objetivo, pero no sabéis dónde se esconde. Dependiendo de vuestros contactos e influencia, podría ser necesario algo más que una sencilla tirada de buscar información. Cualquier persona en la tripulación podría usar esta tarea de la fase de descanso para hacer la tirada apropiada.",
+            "class": "Cerberus"
+        },
+        "(C) Play Both Sides": {
+            "name": "(C) Jugar En Ambos Bandos",
+            "description": "Cuando liberéis a un objetivo de recompensas, convertidlo en un contacto de la tripulación.\n\nSi bien puede que no recibáis pago de las facciones que os contrataron, muchos objetivos tienen unos pocos créditos ahorrados que están dispuestos a daros a cambio de su libertad. Aunque puede que sean más lucrativos los trabajos y pistas que te puedan ofrecer. Agregad al objetivo como contacto de la tripulación, aunque debéis tener en cuenta que algún día podría ser capturado por otros cazarrecompensas (y quizás os paguen por rescatarlo). No todos los cazarrecompensas capturan a sus objetivos, por lo que el DJ ajustará (o no) el estatus de la facción como requiera la ficción al final del trabajo.",
+            "class": "Cerberus"
+        },
+        "(C) Snatch'N'Grab": {
+            "name": "(C) Secuestro",
+            "description": "Cuando uséis un plan de engaño, infiltración o social para ejecutar un secuestro o extracción, agregad +1d a la tirada de implicación.\n\nEl foco de la tripulación está en extraer a un objetivo prioritario de forma segura y sin activar alarmas. Cualquier misión en la que tengáis que llevaros a un objetivo que está bajo vigilancia de sus guardias aplica para esta habilidad.",
+            "class": "Cerberus"
+        },
+        "(F) Forged In Fire": {
+            "name": "(F) Forjados En Fuego",
+            "description": "La cruel experiencia ha endurecido a vuestra tripulación. Cada uno obtiene +1d a todas las tiradas de resistencia.\n\nEsta habilidad se aplica a todos los PJ de la tripulación.",
+            "class": "Firedrake"
+        },
+        "(F) Hearts & Minds": {
+            "name": "(F) Mentes y Corazones",
+            "description": "Cada miembro de la tripulación puede añadir 1 valor de acción a convencer, mandar o socializar (hasta un máximo de 3).\n\nCada jugador puede elegir la acción que prefiera (no todos tienen que elegir la misma). Si tomáis esta habilidad durante la creación de personajes y de la tripulación, reemplaza el límite de inicio normal para los valores de acción.",
+            "class": "Firedrake"
+        },
+        "(F) Just Cause": {
+            "name": "(F) Causa Justa",
+            "description": "Cuando vuestra tripulación hace lo correcto a costa de sí mismos, podéis marcar un px para la tripulación.\n\nEl coste para vuestra tripulación debe ser real, aunque no tiene por qué ser devastador. Podría contar perder una oportunidad significativa, experimentar un revés con un proyecto o enojar a una facción poderosa.",
+            "class": "Firedrake"
+        },
+        "(F) Natural Enemies": {
+            "name": "(F) Enemigos Naturales",
+            "description": "Cuando hagáis un trabajo contra facciones de la Hegemonía, sumad +1d a la tirada de implicación.\n\nEsto se aplica a cualquier trabajo en el que vuestro objetivo principal sea una de las facciones de la columna Hegemonía (consulta la página 316), como los Gremios, las Sectas o la Casa Malklaith. Si el trabajo le causa inconvenientes a una facción, pero no involucra a sus miembros, la bonificación no se aplica.",
+            "class": "Firedrake"
+        },
+        "(F) Old Hands": {
+            "name": "(F) Perros Viejos",
+            "description": "Cuando estáis en Guerra (-3) con una facción de la Hegemonía, todos los miembros de la tripulación consiguen +1d a las tiradas de vicio y aun así obtienen dos tareas de la fase de descanso en lugar de solo una.\n\nPodéis optar por no tirar el dado extra para el vicio, si lo deseáis.",
+            "class": "Firedrake"
+        },
+        "(F) Spark Of Rebellion": {
+            "name": "(F) Chispa de Rebelión",
+            "description": "Si dejáis una tarjeta de visita o un símbolo de resistencia muy visible durante vuestro trabajo, ganáis riesgo +2. Vuestra tripulación gana +1d a vicio durante la siguiente fase de descanso y no podéis abusar.\n\nCuando toméis esta habilidad, debatid cuál es el símbolo de vuestra rebelión. Cuando dejáis una tarjeta de visita, debe ser prominente o aseguraros de que la encontrarán (preferentemente, alguien que no sea la Hegemonía).",
+            "class": "Firedrake"
+        },
+        "(F) Sympathizers": {
+            "name": "(F) Simpatizantes",
+            "description": "Vuestra ideología es especialmente atractiva. Cuando tengáis que lidiar con una tripulación o facción, el DJ os dirá quiénes de ellos creen en vuestra causa (uno, unos pocos, muchos o todos).\n\nSi el DJ no está seguro de la respuesta, podéis hacer una tirada de fortuna utilizando la calidad de la tripulación, tal vez modificada por vuestra relación con una facción. Las facciones no son monolíticas y, si bien la facción en su conjunto (y ciertos individuos dentro de ella) puede despreciar a los personajes, algunos de sus miembros aún podrían tener inclinaciones rebeldes. Tened en cuenta que la respuesta a la pregunta de los creyentes es siempre al menos uno.",
+            "class": "Firedrake"
+        },
+        "(S) Cargo Eye": {
+            "name": "(S) Ojo Para La Mercancía",
+            "description": "La tripulación gana +1 crédito por trabajos de contrabando o entrega. Siempre que busquéis información podéis preguntar: \"¿Qué es lo más valioso aquí?\".\n\nEl crédito extra se gana durante los beneficios y de forma adicional al pago del trabajo. Podéis hacer la pregunta siempre que sea apropiado.",
+            "class": "Stardancer"
+        },
+        "(S) Field Repairs": {
+            "name": "(S) Reparaciones de Campo",
+            "description": "Ganáis eficacia al reparar la nave mientras estáis en el espacio. Si gastáis un gambito en una tirada de manipular, ganáis +2d (en lugar de +1d).\n\nLa eficacia puede permitiros, por medio de la ficción, hacer reparaciones que otros no pueden hacer. Por ejemplo, arreglar temporalmente el daño de una nave suele requerir de un dique de carena. Los dados adicionales del gambito se aplican a cualquier tirada de manipular, no solo a las reparaciones.",
+            "class": "Stardancer"
+        },
+        "(S) Home Cooking": {
+            "name": "(S) Cocina Casera",
+            "description": "Toda la tripulación gana Cocina casera como vicio. Inmediatamente después de un trabajo, podéis gastar 1 crédito y una tarea de la fase de descanso para cocinar para todos y permitir que toda la tripulación presente haga una tirada de vicio.\n\nSi alguien abusa, estalla una pelea y todos ganan 1 punto de estrés después de la tirada de vicio.\n\nRequiere un módulo cocina de galera .\n\nLa tripulación puede dividir quién gasta la tarea y quién paga el crédito. El estrés se aplica al final, después de todos los resultados (esto incluye ajustes con la máxima ganancia o pérdida de estrés por la habilidad Hedonista del Piloto). Cada uno de vosotros gana 1 punto de estrés en total (no 1 por abuso).",
+            "class": "Stardancer"
+        },
+        "(S) Just Passing Through": {
+            "name": "(S) De Paso",
+            "description": "Durante los beneficios, recibís -1 al riesgo del trabajo\n\nCuando vuestro riesgo sea 4 o menos, obtenéis +1d para engañar a la gente al haceros pasar por ciudadanos comunes y siempre tenéis dos tareas de la fase de descanso, incluso si estáis en Guerra (-3) con alguna facción, ya que tienen dificultades para encontraros.\n\nUsad el riesgo del sistema en el que os encontráis al inicio de la fase de descanso para determinar el número de tareas que recibe cada miembro de la tripulación. Si, durante la fase de descanso, la tripulación pasa a través de un sistema en el que tienen un riesgo alto, las facciones enemigas podrían encontraros de todos modos.",
+            "class": "Stardancer"
+        },
+        "(S) Leverage": {
+            "name": "(S) Ventaja",
+            "description": "Tu tripulación sabe cómo tirar de los hilos y cobrar favores. Cuando estáis pasando desapercibidos, en lugar de tirar podéis recibir -1 al estatus con una facción en Utilidad (+1) o mejor para reducir el nivel de búsqueda en 1, y bajar el riesgo a 0 en un sistema.\n\nPodéis cobrar los cambios de facción que obtuvisteis del trabajo actual. No tenéis que limpiar el sistema en el que hicisteis el trabajo, la facción os ayudará a cubrir vuestras huellas de todos modos.",
+            "class": "Stardancer"
+        },
+        "(S) Problem Solvers": {
+            "name": "(S) Resolutivos",
+            "description": "Cada PJ puede agregar 1 valor de acción a pilotar, manipular, o escapar (hasta un máximo de 3).\n\nCada jugador puede elegir la acción que prefiera, no todos tienen que elegir la misma. Si elegís esta habilidad durante la creación de personajes y de la tripulación, reemplaza el límite de inicio normal para los valores de acción.",
+            "class": "Stardancer"
+        },
+        "(S) The Getaway": {
+            "name": "(S) La Huida",
+            "description": "Ganáis eficacia cuando intentáis escapar o pilotar para evitar la captura o evadir un bloqueo. Al realizar un trabajo de entrega, añadid +1d a la tirada de implicación.\n\nA veces lo más valiente es escapar. Esta habilidad funciona para cualquier miembro de la tripulación, esté o no en la nave. Una entrega puede incluir cualquier trabajo en el que el objetivo principal sea llevar carga (legal, ilegal o una persona) entre dos ubicaciones.",
+            "class": "Stardancer"
+        }
+    }
+}
