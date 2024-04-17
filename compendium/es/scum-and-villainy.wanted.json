@@ -1,0 +1,60 @@
+{
+    "label": "Consequências de Procurado",
+    "entries": {
+        "Arrest": {
+            "name": "Arresto",
+            "description": "<p>Un detective presenta un expediente de pruebas a un juez para comenzar el enjuiciamiento de vuestra tripulación. La policía del sistema envía una escolta para arrestaros (una pandilla de, al menos, la misma <strong>escala</strong> que vuestro <strong>nivel de búsqueda</strong> o una nave de ese Nivel). Podéis sobornarlos con una cantidad de <strong>CRÉDITOS</strong> igual a vuestro <strong>NIVEL DE BÚQUEDA +3</strong>, entregar a alguien para su arresto (esto elimina vuestro <strong>RIESGO</strong> y <strong>NIVEL DE BÚSQUEDA</strong> en el sistema) o intentar evadir la captura.</p>"
+        },
+        "Bounty Hunter": {
+            "name": "Cazarrecompensas",
+            "description": "<p>Una facción enemiga contrató a un cazarrecompensas. Podéis luchar, evadir o sobornarlo. Si no tenéis ninguna facción con estatus negativo, evitáis los aprietos por ahora.</p>"
+        },
+        "Collectors": {
+            "name": "Cobradores",
+            "description": "<p>Una agencia de cobros reclama parte de la nave. Pagadles 2 <strong>créditos</strong>, dadles las partes (eliminad un módulo de la nave) o haced que se vayan de otra manera.</p>"
+        },
+        "Cooperation": { 
+            "name": "Cooperación",
+            "description": "<p>Una facción con la que tengáis estatus +2 o +3 os pide un «favor». Podéis aceptarlo o perder estatus con ella. Si no tenéis un estatus de facción +2 o +3, evitáis los aprietos por ahora.</p>"
+        },
+        "Impounded": {
+            "name": "Incautada",
+            "description": "<p>Las autoridades del puerto confiscan vuestra nave. Sobornad a los trabajadores portuarios con <strong>2 CRÉDITOS</strong> para que levanten el bloqueo o robad la nave para recuperarla. Si no estáis en un planeta o estación, evitáis los aprietos por ahora..</p>"
+        },
+        "Interrogation": {
+            "name": "Interrogatório",
+            "description": "<p>Los policías del sistema capturan a uno de los PJ para interrogarlo sobre los crímenes de la tripulación. ¿Cómo consiguieron capturarte? Si no los sobornas con <strong>2 CRÉDITOS</strong> te dan una paliza (daño de nivel 2) hasta que les dices lo que quieren saber (<strong>+2 RIESGO</strong>). Puedes resistir cada una de esas consecuencias por separado.</p>"
+        },
+        "New \"Friends\"": {
+            "name": "Nuevos \"Amigos\"",
+            "description": "<p>Una facción neutral os pide que hagáis un trabajo que es extra peligroso, paga poco o te da más <strong>RIESGO</strong> de lo habitual (a elección del DJ). Si no aceptáis perdéis estatus con ellos.</p>"
+        },
+        "Out of Gas": {
+            "name": "Sin Combustible",
+            "description": "<p>Un pedazo de vuestra nave falla catastróficamente, dañando el sistema y haciéndolo inoperable hasta que sea reparado. Si no usasteis la nave en absoluto durante el último trabajo, evitáis los aprietos por ahora.</p>\n<p>Este aprieto puede ocurrir durante el vuelo entre planetas o sistemas, o en el camino hacia o desde un trabajo. Este fallo significa que no se puede usar todo un sistema (por ejemplo, los motores). ¿A quién llamáis para pedir ayuda y cuánto os costará?</p>"
+        },
+        "Pirates!": {
+            "name": "¡Piratas!",
+            "description": "<p>Los piratas intentan apoderarse de vuestra nave por la fuerza. Corred, pelead o haced un trato. Si no usasteis la nave en absoluto durante el último trabajo, evitáis los aprietos por ahora.</p>" }, 
+        "Reprisals": {
+            "name": "Represalias",
+            "description": "<p>Una facción enemiga va contra vosotros o contra los vuestros. Págadles <strong>1 CRÉDITO</strong> por Nivel, dejad que se metan con vosotros o pelead. Si no tenéis ninguna facción con estatus negativo, evitáis los aprietos por ahora.</p>"
+        },
+        "Ship Trouble": {
+            "name": "Problemas Con La Nave",
+            "description": "<p>Un sistema de la nave falla. Dañad un sistema (el DJ os dirá cuál).</p> <blockquote> <p>Podéis reparar el sistema de forma normal, aunque tendréis que lidiar con las consecuencias del daño en el momento en que ocurre. Este aprieto puede ocurrir durante el vuelo entre planetas o sistemas, o en el camino hacia o desde un trabajo..</p> </blockquote>"
+        },
+        "Unquiet Black": {
+            "name": "Oscuridad Intranquila",
+            "description": "<p>Una criatura alienígena o de la Senda sube a bordo. Adquirid los servicios de un místico o exterminador para destruirla o desterrarla, o intentad lidiar con ella.</p> <blockquote> <p>Tratad la magnitud (ver página 278) de la criatura de la Senda como igual al <strong>NIVEL DE BÚSQUEDA</strong> de la tripulación en el sistema. Esto puede ocurrir por medio de parásitos, carga que no os avisaron de que estaba viva, criaturas extrañas escondidas en carriles no cartografiados y efectos físicos extraños por usar los impulsores de salto más allá de su capacidad.</p> </blockquote>"
+        },
+        "Ur Field": {
+            "name": "Campo Ur",
+            "description": "<p>El portal de salto más cercano os llama a cada uno de vosotros en un idioma que no podéis entender. Resiste con <strong>VOLUNTAD</strong> o sufre <strong>DAÑO DE NIVEL 1</strong> por las visiones de las que no puedes escapar.</p> <blockquote> <p>O que voc&ecirc;s decidem fazer com as vis&otilde;es &eacute; com voc&ecirc;s. Elas terminam ap&oacute;s a tripula&ccedil;&atilde;o deixar o sistema ou na pr&oacute;xima folga &ndash; o que ocorrer primeiro.</p> </blockquote>"
+        },
+        "Wanted Level 4": {
+            "name": "NIVEL DE BÚSQUEDA 4: NAVE DE GUERRA",
+            "description": "<p>El gobernador envía una Legión o nave de guerra Malklaith para capturar vuestra nave. Cuando llegáis a <strong>NIVEL DE BÚSQUEDA 4</strong> en un sistema, envían a la guardia personal del gobernador para llevaros ante la justicia y tendréis que encontrar una manera de escapar. No podéis sobornarlos y luchar contra ellos sería insensato. En cualquier caso, si sobrevivís al encuentro, vuestro <strong>NIVEL DE BÚSQUEDA</strong> se reduce en 1. Los recursos para vuestra búsqueda no son infinitos.</p> <blockquote> <p>Por lo general, la nave será una fragata bien armada con algunos cazas personales. Es posible que queráis considerar volver a pintar o modificar vuestra nave, o conseguir documentos falsos y transpondedores para ayudaros a evitar situaciones similares.</p> </blockquote>"
+        }
+    }
+}
