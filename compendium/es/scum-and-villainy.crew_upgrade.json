@@ -6,31 +6,31 @@
     },
     "entries": {
         "(A) AI Module": {
-            "name": "(Ar) Módulo IA",
+            "name": "(Au) Módulo IA",
             "description": " Software conectado a un núcleo de IA Ur, con filamentos de fibra óptica que recorren toda la nave. Puede automatizar tareas o manejar la nave en lugar de la tripulación. Módulo de personalidad sarcástica disponible de forma gratuita."
         },
         "(A) Armory": {
-            "name": "(Ar) Armeria",
+            "name": "(Au) Armeria",
             "description": " Un cuarto seguro para almacenar las armas y protecciones de la tripulación. Todas estas armas y protecciones de la tripulación se consideran de buena calidad si no lo son ya."
         },
         "(A) Brig": {
-            "name": "(Ar) Calabozo",
+            "name": "(Au) Calabozo",
             "description": "Cárcel espacial. No está pensado para encarcelamiento prolongado. Evitará la mayoría de los intentos de escapar."
         },
         "(A) Galley": {
-            "name": "(Ar) Cocina de galera",
+            "name": "(Au) Cocina de galera",
             "description": "Una cocina y comedor combinados. Facilita mucho los viajes más largos. Incluye almacenamiento de alimentos frescos."
         },
         "(A) Medical Bay": {
-            "name": "(Ar) Área Médica",
+            "name": "(Au) Área Médica",
             "description": "Una sala limpia con equipo médico. No es un hospital, pero es suficiente para curar la mayoría de las lesiones. Almacenamiento para medicamentos y escáneres médicos. Añadid +1d a las tiradas de curación de toda la tripulación."
         },
         "(A) Science Bay": {
-            "name": "(Ar) Área cientifica",
+            "name": "(Au) Área cientifica",
             "description": "Laboratorio que se puede utilizar para analizar anomalías y artefactos precursores. Almacenamiento seguro para cosas que pueden reaccionar de manera extraña con el resto de la nave (o con la física)."
         },
         "(A) Shields": {
-            "name": "(Ar) Escudos",
+            "name": "(Au) Escudos",
             "description": "Sumideros de partículas y deflectores EM. Pueden sucumbir bajo fuego focalizado. Cuenta como protección contra armas de naves y ataques de energía. Absorbe completamente los disparos de bláster. Cuesta dos mejoras en lugar de una."
         },
         "(C) Fake Transponder": {
