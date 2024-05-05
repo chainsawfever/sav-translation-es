@@ -1,7 +1,5 @@
 {
   "id": "sav-translation-es",
-  "url": "https://github.com/chainsawfever/sav-translation-es",
-  "manifest": "https://raw.githubusercontent.com/chainsawfever/sav-translation-es/main/module.json",
   "title": "Scum And Villany Spanish Translation",
   "description": "Este módulo contiene la traducción del sistema de Escoria y Villeza y sus compendios",
   "version": "0.0.1",
@@ -9,6 +7,9 @@
     "minimum": "11",
     "verified": "11"
   },
+  "esmodules":[
+    "register.js"
+  ],
   "languages": [
     {
       "lang": "es",
@@ -39,17 +40,7 @@
       "email": "chainsawfever@gmail.com"
     }
   ],
-  "packs": [
-    {
-      "name": "journal-entries",
-      "label": "Journal Entries",
-      "path": "packs/journal-entries",
-      "type": "JournalEntry",
-      "system": "scum-and-villainy",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    }
-  ]
+  "url": "https://github.com/chainsawfever/sav-translation-es",
+  "manifest": "https://raw.githubusercontent.com/chainsawfever/sav-translation-es/main/module.json"
 }
+

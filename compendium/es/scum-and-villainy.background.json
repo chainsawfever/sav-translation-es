@@ -1,0 +1,36 @@
+{
+    "label": "Trasfondo",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": {
+        "Academic": {
+            "name": "Académico",
+            "description": "Un profesor, estudiante, investigador u otra vocación impulsada por el conocimiento."
+        },
+        "Cult": {
+            "name": "Sectario",
+            "description": "Forma parte de una secta, oficialmente autorizada o no. Un guerrero santo, sacerdote o devoto religioso."
+        },
+        "Guilder": {
+            "name": "Gremialista",
+            "description": "Participa en las maquinaciones de un Gremio, como un diseñador de naves, analista financiero u oficial de logística."
+        },
+        "Labor": {
+            "name": "Obrero",
+            "description": "Un trabajador de fábrica, conductor, estibador, minero u otro oficio. La mayoría de la Hegemonía tiene este trasfondo."
+        },
+        "Military": {
+            "name": "Militar",
+            "description": "Un soldado hegemónico, mercenario, agente de inteligencia, estratega, instructor de entrenamiento, etc."
+        },
+        "Noble": {
+            "name": "Noble",
+            "description": "Vive una vida de lujo, como un diletante, alguien atrapado en la política de las Casas, etc."
+        },
+        "Syndicate": {
+            "name": "Gánster",
+            "description": "Forma parte de una banda criminal organizada, desde el vigía más insignificante hasta un señor del crimen derrocado."
+        }
+    }
+}
