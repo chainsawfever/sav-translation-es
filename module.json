@@ -5,9 +5,9 @@
   "version": "0.0.1",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "11.315"
   },
-  "esmodules":[
+  "esmodules": [
     "register.js"
   ],
   "languages": [
@@ -37,10 +37,10 @@
   "authors": [
     {
       "name": "Chainsafever",
-      "email": "chainsawfever@gmail.com"
+      "email": "chainsawfever@gmail.com",
+      "flags": {}
     }
   ],
   "url": "https://github.com/chainsawfever/sav-translation-es",
   "manifest": "https://raw.githubusercontent.com/chainsawfever/sav-translation-es/main/module.json"
 }
-

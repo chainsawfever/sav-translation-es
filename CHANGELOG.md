@@ -12,3 +12,8 @@ Todas las traducciones exepto:
 Primera Release
 
 -Añadidas las traducciones de los planetas
+
+## Version 1.0.1.2
+Primera Release
+
+-Fix de la Escena de Ak
