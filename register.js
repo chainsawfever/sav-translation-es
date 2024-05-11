@@ -5,7 +5,7 @@ Hooks.once('init', () => {
 		Babele.get().register({
       module: 'sav-translation-es',
       lang: 'es',
-      dir: 'compendium',
+      dir: 'compendium/es',
 		});
 	}
 });
