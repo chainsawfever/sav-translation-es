@@ -7,3 +7,8 @@ Todas las traducciones exepto:
 -Facciones
 -Planetas
 -Contactos
+
+## Version 1.0.1
+Primera Release
+
+-Añadidas las traducciones de los planetas
