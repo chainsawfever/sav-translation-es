@@ -9,11 +9,9 @@ Todas las traducciones exepto:
 -Contactos
 
 ## Version 1.0.1
-Primera Release
 
 -Añadidas las traducciones de los planetas
 
 ## Version 1.0.1.2
-Primera Release
 
--Fix de la Escena de Ak
+-Fix de la Escena de Aketi
