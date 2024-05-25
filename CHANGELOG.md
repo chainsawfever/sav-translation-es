@@ -15,3 +15,7 @@ Todas las traducciones exepto:
 ## Version 1.0.1.2
 
 -Fix de la Escena de Aketi
+
+# Version 1.0.1.3
+
+-Añadir traducciones de Amigos
