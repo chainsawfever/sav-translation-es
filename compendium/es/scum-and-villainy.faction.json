@@ -115,18 +115,18 @@
             "quirks": "Todos los miembros del Cónclave son urbots de variadas formas y tamaños.",
             "allis": "Caballeros del Concordato, La Vorágine (que tiene un capitán urbot), Sah’iir.",
             "enemies": "51ª Legión, Gremio de Ingenieros.",
-            "situation": "Prime quer fundar uma pátria Urbot, mas, para isso, é preciso de números. Após ter passado anos liberando núcleos, ele deve lhes fabricar corpos e cultivá-los com segurança. Ele espera assumir fábricas abandonadas em Iota e começar a fazer isso secretamente."
+            "situation": "El Primer quiere fundar una patria urbot, pero necesita un grupo mayor para hacerlo. Después de pasar años liberando núcleos, debe fabricar cuerpos para ellos y cultivarlos de forma segura. Espera hacerse cargo de las fábricas abandonadas en Iota y comenzar a hacerlo en secreto."
         },
         "Concordiat Knights": {
-            "name": "Cavaleiros da Concordia",
-            "description": "Frequentemente acompanhados por um grupo heterogêneo de aventureiros, essas dezenas de personagens coloridos têm a bênção das Igrejas Hegemônicas para buscarem por algo chamado de Luz do Mundo.",
+            "name": "Caballeros del Concordato",
+            "description": "Cuartos y quintos hijos, estos jóvenes nobles han hecho un juramento santificado por el hegemón para buscar la Luz del Mundo.",
             "type": "Hegemonia",
-            "goal": "Encontrar o território Ur em seu mapa",
-            "notables": "- Nicols al’Nim-Amar (líder, superficial, esperançoso).\n- Vnipe al’Vorron (sacerdotisa, renomada, chique).\n- Junrai (explorador, desejo de morte, inquieto).\n- Intal Brel (religioso, vigilante, honrado)",
-            "turf": "Nenhum. Os Cavaleiros viajam em naves particulares. Deixam mensagens uns para os outros no Graal (um bar em Sonhandra).",
-            "assets": "Um mapa de Procyon de antes da Hegemonia. Naves de exploração. Poder pessoal e fundos significativos.",
-            "quirks": "Cada cavaleiro é tão distinto quanto possível um do outro. Este grupo coeso é composto por personagens únicos e coloridos.",
-            "allies": "Mendicantes, Vigilância",
+            "goal": "Encontrar el primer sitio Ur en su mapa.",
+            "notables": "- Nicols al'Nim-Amar (líder, simplista, optimista). \n- Vnipe al'Vorron (sacerdotisa, renombrada, enjoyada). \n- Junrai (exploradora, temeraria, inquieta). \n- Intal Brel (religioso, vigilante, honorable).",
+            "turf": "Ninguno. Los caballeros viajan en naves privadas. El Grial (un bar en Sonhandra) es donde se dejan mensajes unos a otros.",
+            "assets": "Un mapa de Procyon de antes de la Hegemonía. Naves de exploración. Poder personal y fondos significativos.",
+            "quirks": "Cada Caballero es tan distinto como pueden serlo el uno del otro. Este estrecho grupo se compone de personajes únicos y coloridos.",
+            "allies": "Mendicantes, Vigilancia.",
             "enemies": "Acólitos de Brashkadesh",
             "situation": "Uma mensagem recuperada sobre um artefato poderoso que poderia terraformar mundos anteriormente mortos acenderam um fervor em vários jovens Hegemônicos. Fazendo um juramento abençoado pelo Hegemon para encontrá-lo, eles procuram por toda a Galáxia. Nicols recentemente encontrou um mapa marcado de Procyon anterior à Hegemonia e os Cavaleiros procuram desvendar seu mistério."
         },
