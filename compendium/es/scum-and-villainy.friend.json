@@ -1,0 +1,259 @@
+{
+    "label": "Amigos",
+    "mapping": {
+        "description": "system.description",
+        "class": "system.class"
+    },
+    "entries": {
+        "?": {
+            "name": "?",
+            "description": "Anota a alguien de tu pasado cuando te venga la inspiración. Si adquieres la habilidad de Viejos Amigos, amplía esta lista cada vez que aterrices en un lugar nuevo.",
+            "class": "Orador"
+        },
+        "Ada Black": {
+            "name": "Ada Black",
+            "description": "Una artista famosa. La consentida del sector. ¿Quizás sus giras podrían ser buenas tapaderas para colarse en áreas bloqueadas?",
+            "class": "Firedrake"
+        },
+        "Alben": {
+            "name": "Alben",
+            "description": "Un antiguo paciente. ¿De qué lo curaste? ¿Cómo puede ayudarte ahora?",
+            "class": "Matasanos"
+        },
+        "Alor": {
+            "name": "Alor",
+            "description": "Una camarera de oído agudo. Una buena fuente de trabajos y una buena fuente de bebidas. ¿Qué le traéis de vuestros viajes?",
+            "class": "Stardancer"
+        },
+        "Arlox": {
+            "name": "Arlox",
+            "description": "Un pasha de las Navajas Cenizas. Una vez fue un asesino, ahora es líder del Sindicato. ¿También cazáis recompensas ilegales para él?",
+            "class": "Cerberus"
+        },
+        "Arryn": {
+            "name": "Arryn",
+            "description": "Un noble. ¿Un viejo amigo o pariente? ¿O alguien con quien te pasaste de la raya?",
+            "class": "Orador"
+        },
+        "Aya": {
+            "name": "Aya",
+            "description": "Una asesina. ¿Una ex que todavía te quiere? ¿Un amor desdeñado? ¿O eres el objetivo que se le escapó?",
+            "class": "Matón"
+        },
+        "Battro": {
+            "name": "Battro",
+            "description": "Un cazarrecompensas. ¿Te ha dejado ir antes? ¿Te está buscando ahora?",
+            "class": "Canalla"
+        },
+        "Blish": {
+            "name": "Blish",
+            "description": "Una compañera mística. ¿Seguís el mismo camino o tenéis creencias tremendamente diferentes sobre la Senda?",
+            "class": "Místico"
+        },
+        "Chon-zek": {
+            "name": "Chon-zek",
+            "description": "Una cazarrecompensas. ¿Antigua socia? ¿O una competidora de tu mismo trasfondo?",
+            "class": "Matón"
+        },
+        "Choss": {
+            "name": "Choss",
+            "description": "Un corredor profesional. ¿Com partís buenos consejos el uno con el otro? ¿O intentáis superaros mutuamente?",
+            "class": "Piloto"
+        },
+        "Citani": {
+            "name": "Citani",
+            "description": "Un agente de información solitario. ¿Quién es su jefe cuando no está con la tripulación? ¿Qué tipo de información suele proporcionar?",
+            "class": "Stardancer"
+        },
+        "Ditha": {
+            "name": "Ditha",
+            "description": "Una miembro de la familia. ¿Apoya tu trabajo? ¿O intenta hacer que vuelvas a casa?",
+            "class": "Matasanos"
+        },
+        "Garin": {
+            "name": "Garin",
+            "description": "Ingeniera de armas del Gremio. ¿Su conciencia no le permite hacer todo lo que el Gremio le exige? ¿Os ayudó a adquirir la nave?",
+            "class": "Firedrake"
+        },
+        "Heani": {
+            "name": "Heani",
+            "description": "Un capitán de remolcador. ¿Con qué frecuencia os cruzáis en el abismo? ¿Cuándo os trajo de vuelta a un lugar seguro?",
+            "class": "Stardancer"
+        },
+        "Hicks": {
+            "name": "Hicks",
+            "description": "Una proveedora de productos místicos. ¿Una proveedora fiable de cristales vosianos, o una oportunista insensible que se aprovecha de tu fe?",
+            "class": "Místico"
+        },
+        "Horux": {
+            "name": "Horux",
+            "description": "Un antiguo profesor. ¿Todavía acudes a pedirle consejo? ¿O siente que has abusado de sus enseñanzas?",
+            "class": "Místico"
+        },
+        "Ibo-one": {
+            "name": "Ibo-one",
+            "description": "Un antiguo místico de secta. ¿Tal vez un guía en las peligrosas ruinas Ur donde podríais esconderos?",
+            "class": "Firedrake"
+        },
+        "Ishi": {
+            "name": "Ishi",
+            "description": "Un traficante de armas. Las recompensas vienen armadas e Ishi iguala las condiciones. ¿Pone a punto vuestra nave?",
+            "class": "Cerberus"
+        },
+        "Jackev": {
+            "name": "Jackev",
+            "description": "Un traficante de drogas. ¿Es una conexión legítima o solo alimenta un vicio? ¿O redujiste sus ganancias?",
+            "class": "Matasanos"
+        },
+        "Jal": {
+            "name": "Jal",
+            "description": "Un mecánico de naves. ¿Te ha ayudado siempre con tu nave? ¿O la nave es suya y quiere lo que le corresponde?",
+            "class": "Canalla"
+        },
+        "Je-zee": {
+            "name": "Je-zee",
+            "description": "Una diplomática. ¿Pertenecíais a facciones aliadas o teníais objetivos opuestos?",
+            "class": "Orador"
+        },
+        "Jezri": {
+            "name": "Jezri",
+            "description": "Una conseguidora. Lo que necesitéis, Jezri lo tiene. Información, equipo, trabajos, amigos y enemigos. ¿Os ayudó Jezri a obtener vuestra nave o licencia?",
+            "class": "Cerberus"
+        },
+        "Juda": {
+            "name": "Juda",
+            "description": "Un médico. ¿Sigue ayudándote? ¿O se trata de un viejo rival que quiere que seas castigado por practicar medicina ilegalmente?",
+            "class": "Matasanos"
+        },
+        "Kenn": {
+            "name": "Kenn",
+            "description": "Un miembro de la familia. ¿Él también es mecánico? ¿Competíais por la atención de uno de vuestros padres?",
+            "class": "Mecánico"
+        },
+        "Kerry": {
+            "name": "Kerry",
+            "description": "Un médico. ¿Es quien siempre te atiende? ¿O le has roto el corazón?",
+            "class": "Orador"
+        },
+        "Krieger": {
+            "name": "Krieger",
+            "description": "Una pistola bláster. ¿Es tu arma favorita? ¿O la lleva un rival para usarla contra ti?",
+            "class": "Matón"
+        },
+        "Laxx": {
+            "name": "Laxx",
+            "description": "Un xeno. ¿Amigo inusual o enemigo peligroso? ¿Es muy sensible, o es tu amigo \"normal\"?",
+            "class": "Místico"
+        },
+        "Len": {
+            "name": "Len",
+            "description": "Una traficante del mercado negro. ¿Te consigue las piezas a las que nadie más puede acceder? ¿Fallaste en cumplir lo que le prometiste?",
+            "class": "Mecánico"
+        },
+        "Lix": {
+            "name": "Lix",
+            "description": "Un rastreador xeno. ¿Es un xeno con un rasgo para rastrear personas o alguien que caza xenos?",
+            "class": "Cerberus"
+        },
+        "Lynie": {
+            "name": "Lynie",
+            "description": "Una administradora del hospital. ¿Una vieja jefa? ¿La metiste en problemas por algo que hiciste?",
+            "class": "Matasanos"
+        },
+        "Manda": {
+            "name": "Manda",
+            "description": "Una miembro del Gremio. ¿Obtienes información exclusiva? ¿O le robaste secretos al Gremio?",
+            "class": "Orador"
+        },
+        "Mav": {
+            "name": "Mav",
+            "description": "Una antigua mentora. ¿Qué trucos te enseñó? ¿Está celosa de tu habilidad ahora?",
+            "class": "Piloto"
+        },
+        "Meris": {
+            "name": "Meris",
+            "description": "Una canalla. ¿Habéis trabajado juntos? ¿Te ha traicionado en alguna ocasión?",
+            "class": "Piloto"
+        },
+        "Nisa": {
+            "name": "Nisa",
+            "description": "Una empleadora anterior. ¿Es una capitana o la dueña de un negocio? ¿Terminó bien?",
+            "class": "Mecánico"
+        },
+        "Nyx": {
+            "name": "Nyx",
+            "description": "Una prestamista. ¿Eres su cliente favorito? ¿O un vago con una deuda?",
+            "class": "Matasanos"
+        },
+        "Ora": {
+            "name": "Ora",
+            "description": "Una agente de información. ¿Viene siempre a ti con algún dato jugoso?",
+            "class": "Matasanos"
+        },
+        "Rakka": {
+            "name": "Rakka",
+            "description": "Una diplomática. ¿Qué facción representa? ¿Cómo os hicisteis amigos de alguien tan influyente?",
+            "class": "Stardancer"
+        },
+        "Rhin": {
+            "name": "Rhin",
+            "description": "Un contrabandista. ¿Una fuente fiable que te pasa información? ¿Un granuja que ascendió contigo? ¿O un rival en tu profesión?",
+            "class": "Matasanos"
+        },
+        "Rye": {
+            "name": "Rye",
+            "description": "Un amor no correspondido. ¿Fue tu entrenamiento y costumbres lo que se interpuso entre vosotros?",
+            "class": "Místico"
+        },
+        "Shod": {
+            "name": "Shod",
+            "description": "Un traficante de armas. ¿Un mentor o antiguo socio que se esfumó con las ganancias? ¿Alguien a quien le debes algo?",
+            "class": "Matón"
+        },
+        "Slice": {
+            "name": "Slice",
+            "description": "Dueño de un depósito de chatarra. ¿Qué piezas guarda para ti? ¿O mejoraste algo que le pertenecía?",
+            "class": "Mecánico"
+        },
+        "Stacey Weathers": {
+            "name": "Stacey Weathers",
+            "description": "Reportera estrella. Tiene todo tipo de buenas pistas, pero ¿qué pide a cambio?",
+            "class": "Cerberus"
+        },
+        "Stev": {
+            "name": "Stev",
+            "description": "Un jugador de mala reputación. ¿Sois amigos desde hace mucho tiempo? ¿Hiciste trampas en su mesa?",
+            "class": "Mecánico"
+        },
+        "T'kala": {
+            "name": "T'kala",
+            "description": "Una capitana portuaria. ¿Os ayudó a conseguir vuestra nave?",
+            "class": "Stardancer"
+        },
+        "Tiko Lux": {
+            "name": "Tiko Lux",
+            "description": "Un piloto estrella. El mejor, pero lo expulsaron de la Legión. ¿Un conductor de escape para vosotros?",
+            "class": "Firedrake"
+        },
+        "Triv": {
+            "name": "Triv",
+            "description": "Una mecánica de naves. ¿Te ha ayudado siempre con tu nave? ¿Has «olvidado» pagarle por una gran actualización?",
+            "class": "Piloto"
+        },
+        "Tyura": {
+            "name": "Tyura",
+            "description": "Una asesina legendaria. ¿Cómo os ganasteis su lealtad? ¿Cuál es su problema con la Hegemonía?",
+            "class": "Firedrake"
+        },
+        "Yattu": {
+            "name": "Yattu",
+            "description": "Un jefe de pandilla. ¿Solías volar para él? ¿Lo dejaste en la estacada en un trabajo?",
+            "class": "Piloto"
+        },
+        "Yazu": {
+            "name": "Yazu",
+            "description": "Un policía corrupto. ¿Familiar que cubre tus huellas, o alguien que todavía te persigue por meterlo en problemas?",
+            "class": "Matón"
+        }
+    }
+}
