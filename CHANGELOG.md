@@ -19,3 +19,7 @@ Todas las traducciones exepto:
 # Version 1.0.1.3
 
 -Añadir traducciones de Amigos
+
+# Version 1.0.1.4
+
+-Añadir traducciones de Facciones
