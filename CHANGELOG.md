@@ -23,3 +23,7 @@ Todas las traducciones exepto:
 # Version 1.0.1.4
 
 -Añadir traducciones de Facciones
+
+# Version 1.0.1.5
+
+-Añadir traducciones títulos del compendio
