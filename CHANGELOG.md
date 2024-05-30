@@ -27,3 +27,7 @@ Todas las traducciones exepto:
 # Version 1.0.1.5
 
 -Añadir traducciones títulos del compendio
+
+# Version 1.0.1.6
+
+-Fix mantener nombre tipo de facción en inglés para que pueda añadirse a la ficha de facciones
