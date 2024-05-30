@@ -230,7 +230,7 @@
         },
         "(W) Grappling Hooks": {
             "name": "(Ar) Gancho de agarre",
-            "description": "Una serie de redes, líneas de agarre y brazos, creados oficialmente Escáner de largo alcance: Proporciona un amplio espectro EM y lecturas gravimétricas, y puede darle a la tripulación una advertencia anticipada de hasta una docena de minutos luz de distancia. Transpondedor falso: Transmite la señal de una nave diferente, reproduce una potente grabación o ecos de sensores, o actúa como baliza. Se puede utilizar de forma remota. para engancharse a asteroides y transportar carga, que pueden unir dos embarcaciones para remolcarlas o abordarlas. Legal."
+            "description": "Una serie de redes, líneas de agarre y brazos, creados oficialmente para engancharse a asteroides y transportar carga, que pueden unir dos embarcaciones para remolcar o abordar. Legal."
         },
         "(W) Mining Drill": {
             "name": "(Ar) Taladro minero",
