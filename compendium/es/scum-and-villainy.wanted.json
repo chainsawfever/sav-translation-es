@@ -53,7 +53,7 @@
             "description": "<p>El portal de salto más cercano os llama a cada uno de vosotros en un idioma que no podéis entender. Resiste con <strong>VOLUNTAD</strong> o sufre <strong>DAÑO DE NIVEL 1</strong> por las visiones de las que no puedes escapar.</p> <blockquote> <p>O que voc&ecirc;s decidem fazer com as vis&otilde;es &eacute; com voc&ecirc;s. Elas terminam ap&oacute;s a tripula&ccedil;&atilde;o deixar o sistema ou na pr&oacute;xima folga &ndash; o que ocorrer primeiro.</p> </blockquote>"
         },
         "Wanted Level 4": {
-            "name": "NIVEL DE BÚSQUEDA 4: NAVE DE GUERRA",
+            "name": "Nave de Guerra",
             "description": "<p>El gobernador envía una Legión o nave de guerra Malklaith para capturar vuestra nave. Cuando llegáis a <strong>NIVEL DE BÚSQUEDA 4</strong> en un sistema, envían a la guardia personal del gobernador para llevaros ante la justicia y tendréis que encontrar una manera de escapar. No podéis sobornarlos y luchar contra ellos sería insensato. En cualquier caso, si sobrevivís al encuentro, vuestro <strong>NIVEL DE BÚSQUEDA</strong> se reduce en 1. Los recursos para vuestra búsqueda no son infinitos.</p> <blockquote> <p>Por lo general, la nave será una fragata bien armada con algunos cazas personales. Es posible que queráis considerar volver a pintar o modificar vuestra nave, o conseguir documentos falsos y transpondedores para ayudaros a evitar situaciones similares.</p> </blockquote>"
         }
     }
