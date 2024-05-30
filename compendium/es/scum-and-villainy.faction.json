@@ -16,7 +16,7 @@
         "51st Legion": {
             "name": "51ª Legión",
             "description": "Militares hegemónicos que representan la ley en cualquier lugar fuera del planeta. \nOBJETIVO SECREO: Prepara un golpe de estado.",
-            "type": "Hegemonia",
+            "type": "Hegemony",
             "goal": "Limpiar la legión de cualquier persona desleal",
             "notables": "- Tallon «el Carnicero» (comandante, disciplinado, imponente, cruel). \n- Liyara (teniente, psíquica, cambiada, misteriosa, leal). \n- Thrace (piloto estrella, imprudente, jugadora, fiel). \n- Wick (espía, xeno, ilegible, misterioso, fiel).",
             "turf": "El Scorpio (acorazado, Cuartel general). Astilleros navales en todo el sector. Puestos de avanzada en instalaciones gubernamentales y públicas, y carriles comerciales.",
@@ -29,7 +29,7 @@
         "Acolytes of Brashkadesh": {
             "name": "Acólitos de Brashkadesh",
             "description": "Evitan la individualidad, y todos los iniciados adoptan el mismo atuendo y el nombre «Ashkad», en la búsqueda de la perfección a cualquier precio.",
-            "type": "Sobrenatural",
+            "type": "Weirdness",
             "goal": "Convertir toda una fábrica a su religión",
             "notables": "- Ashkad (carismática, apasionada, idealista). \n- Ashkad (ambicioso, deshonesto, musculado). \n- Ashkad (místico, devoto, artístico). \n- Ashkad (técnica, experta, mentirosa, rica).",
             "turf": "",
@@ -55,7 +55,7 @@
         "Ashtari Cult": {
             "name": "Secta de Ashtari",
             "description": "Una secta de adoradores de los Precursores que dicen ser descendientes de los Ur. Inhalan viales de gases de la Nube de Ashtari para conectarse con sus presuntos antepasados.",
-            "type": "Sobrenatural",
+            "type": "Weirdness",
             "goal": "Alinear las lunas de Ocaso",
             "notables": "- Urmak Theon (compasivo, educado, bien hablado). \n- Urmak Lesh (artífice, exgremialista, investigadora). \n- Urley Fean (noble, cautelosa, escondida, influyente). \n- Rokono Maex (capitán, carroñero, grueso, no creyente, estoico).",
             "turf": "Una ruina indocumentada de Ur en Lithios. Una base lunar en una luna de Ocaso (Cuartel general).",
@@ -81,7 +81,7 @@
         "Church of Stellar Flame": {
             "name": "Iglesia de la Llama Estelar",
             "description": "Un grupo religioso con respaldo hegemónico, que cree que muchos artefactos precursores y prácticas místicas son peligrosas.",
-            "type": "Hegemonia",
+            "type": "Hegemony",
             "goal": "Erradicar herejes y elementos peligrosos",
             "notables": "- Alaana (noble, alta sacerdotisa, mística, motivada, exhereje). \n- Hermana de batalla \n- Diana (cicatriz de batalla, exotraje, imparable). \n- Iraam el Bueno (inquisidor, sencillo, tranquilo, cruel).",
             "turf": "El Senda de la Luz, un crucero de batalla que orbita increíblemente cerca de una estrella (Cuartel general).",
@@ -107,7 +107,7 @@
         "Conclave 01": {
             "name": "Conclave 01",
             "description": "Urbots independientes y sintientes, liderados por el Primer, que buscan el libre albedrío y la independencia para todos los urbots.",
-            "type": "Sobrenatural",
+            "type": "Weirdness",
             "goal": "Tomar control de la fábrica de Iota",
             "notables": "- El Primer (antiguo, poderoso, misterioso, sabio). \n- Bar-Hazuk (jardinero, enorme, amable). \n- Delta-7 (arquitecto, plataforma de armas, masivo). \n- Sp-d3r (hacker, infiltrado, camuflado, diminuto).",
             "turf": "Bases secretas en Baftoma y los páramos de Indri (Cuartel general).",
@@ -120,7 +120,7 @@
         "Concordiat Knights": {
             "name": "Caballeros del Concordato",
             "description": "Cuartos y quintos hijos, estos jóvenes nobles han hecho un juramento santificado por el hegemón para buscar la Luz del Mundo.",
-            "type": "Hegemonia",
+            "type": "Hegemony",
             "goal": "Encontrar el primer sitio Ur en su mapa.",
             "notables": "- Nicols al'Nim-Amar (líder, simplista, optimista). \n- Vnipe al'Vorron (sacerdotisa, renombrada, enjoyada). \n- Junrai (exploradora, temeraria, inquieta). \n- Intal Brel (religioso, vigilante, honorable).",
             "turf": "Ninguno. Los caballeros viajan en naves privadas. El Grial (un bar en Sonhandra) es donde se dejan mensajes unos a otros.",
@@ -133,7 +133,7 @@
         "Counters Guild": {
             "name": "Gremio de Contadores",
             "description": "Funcionarios que mantienen la red de monedas galácticas y construyen repositorios alternativos en cualquier sistema en el que el Gremio tenga presencia, almacenando artículos misteriosos y asegurando subastas y comercio.",
-            "type": "Hegemonia",
+            "type": "Hegemony",
             "goal": "Alterar la operación de minería del Gremio de Ingenieros.",
             "notables": "- Torx Verron (director ejecutivo, calculador, despiadado, expansionario). \n- Rintar Ix (jefa de operaciones, confabuladora, celosa, astuta). \n- Broq Vsigh (jefe del repositorio, honorable, meticuloso).",
             "turf": "Numerosos repositorios alternativos que almacenan objetos misteriosos en bóvedas de alta tecnología. Un cambio de moneda en Warren construido en la red hegemónica ansible (Cuartel general).",
@@ -146,7 +146,7 @@
         "Cult of the Seekers": {
             "name": "Secta de los Buscadores",
             "description": "Místicos errantes que estudian artefactos y buscan nuevos lugares. Los miembros incluyen a la madre del Hegemón. Quieren abrir el portal Hantu.",
-            "type": "Hegemonia",
+            "type": "Hegemony",
             "goal": "Encontrar las llaves perdidas del portal Hantu",
             "notables": "- Lasaya al'Nim-Amar (noble, mística, brillante, obsesionada). \n- Yor Brah-Rahim (explorador, exaltado, estresado). \n- Qulocct (memita, investigador, agudo, servil).",
             "assets": "Planos exhaustivos de otros portales pertenecientes al Gremio. Autorización hegemónica para recuperar artefactos. Una gran reserva de artefactos.",
@@ -197,7 +197,7 @@
         "Ghosts": {
             "name": "Fantasmas",
             "description": "Científicos que, debido a un percance, viven en exotrajes en un estado semiespectral. La Iglesia de la Llama Estelar ofrece una recompensa significativa por ellos y su nave fantasma, la Llave Esqueleto, ya sea muertos o destruidos (pero ciertamente no vivos).",
-            "type": "Sobrenatural",
+            "type": "Weirdness",
             "goal": "Contratar a Memitas para hacer una bomba para el Portal Holt",
             "notables": "- Nils Boyer (físico, brillante, arrepentido). -\n Roy Stanz (biólogo, amargado, motivado). -\n Eegon Mark (ingeniero, genio, diseñador de trajes). -\n Pol Venker (ingeniero, autoindulgente, caballero).",
             "turf": "La Llave Esqueleto, una corbeta semiespectral (Cuartel general). Una instalación de investigación secreta en Lithios.",
@@ -210,7 +210,7 @@
         "Guild of Engineers": {
             "name": "Gremio de Ingenieros",
             "description": "Uno de los Altos Gremios Hegemónicos, responsable de la adquisición de recursos, la cibernética, la IA, el avance tecnológico y la investigación. Suelen tener los mejores juguetes.",
-            "type": "Hegemonia",
+            "type": "Hegemony",
             "goal": "Convertir la Plataforma Comercial en un Sifón de la Senda",
             "notables": "- Avalon Riat (jefe ejecutivo, piernas de araña cibernéticas, megalómano). \n- Thiel Kharrat (jefa de operaciones, brutal, conectada, influyente). \n- Oevers Star (investigadora jefa, genio, solitaria, sobrecargada de trabajo). \n- Yast Jor (líder, astuto, audaz).",
             "turf": "SB-176 (Cuartel general). Compañías mineras en todos los sistemas en Procyon. Instalaciones de investigación avanzada en Rin, Iota y Brekk.",
@@ -223,7 +223,7 @@
         "Hegemonic News Network": {
             "name": "Red de Noticias Hegemónica (RNH)",
             "description": "Los que controlan los medios de comunicación controlan la mente. A menudo usan esto como ventaja sobre otras facciones. Espías.",
-            "type": "Hegemonia",
+            "type": "Hegemony",
             "goal": "Entrontrar información para chantajear al Gobernador Malklaith",
             "notables": "- Cinszo (propietario, ambicioso, codicioso, poco fiable). \n- Rinsama Kay (editora jefa, cínica, exigente, insistente). \n- Ooxoo (xeno, mánager del grupo de prensa, curioso). \n- Stacy Weathers (reportera estrella, espía entrenada, siempre sonriendo, olfato para los problemas).",
             "turf": "Oficinas corporativas de RNH en Warren (Cuartel general). Oficinas locales en todos los planetas.",
@@ -236,7 +236,7 @@
         "House Malklaith": {
             "name": "Casa Malklaith",
             "description": "Una poderosa Casa noble de la Hegemonía, que ostensiblemente es dueña del sector. Representada por el gobernador, el quinto hijo, que vive en Warren.",
-            "type": "Hegemonia",
+            "type": "Hegemony",
             "goal": "Adquirir la llave de Aleph",
             "notables": "- Ritam al’Malklaith (Noble, intenso, obsesionado, elocuente). \n- Jerrem (capitán de la guardia, táctico, con cicatrices, leal). \n- Shim (jueza, corrupta, codiciosa, ambiciosa).",
             "turf": "Malklaith es dueño del sector, pero el gobernador rara vez deja Warren. Su gente se puede encontrar en posiciones importantes en todos los sistemas del sector.",
@@ -249,7 +249,7 @@
         "Isotropa Max Secure": {
             "name": "Isótropa de Máxima Seguridad",
             "description": "El sistema penitenciario más notorio en el sector Procyon, que alberga lo peor de lo peor. Los guardias negocian audiencias con sus prisioneros y otorgan conmutaciones para aquellos con poder y riqueza.",
-            "type": "Hegemonia",
+            "type": "Hegemony",
             "goal": "Conseguir más prisioneres (repetir)",
             "notables": "- Bafma F’rozz (alcaide, altiva, confiada, rica). \n- Kreel (capitán de guardia, musculoso, enojado). \n- Dr. Xhu (psicoterapeuta, corrupto, jugador).",
             "turf": "Isótropa de Máxima Seguridad en Brekk (Cuartel general).",
@@ -285,10 +285,10 @@
             "enemies": "La mayoría de las facciones de la Hegemonía.",
             "situation": "La 1ª Legión, la guardia privada del hegemón, se rebeló cuando el actual hegemón ascendió al trono. Protegen a una joven, heredera del último hegemón, a quien esperan devolver su trono. Planean capturar a la cabeza de la Iglesia de la Llama Estelar y convencerla de bendecir a la niña como es requerido."
         },
-        "Mendicantes": {
+        "Mendicants": {
             "name": "Mendicantes",
             "description": "Originalmente se llamaban la Iglesia del Corazón Esmeralda, hasta que su organización fue destruida políticamente. Ahora vagan por las estrellas como médicos y sanadores ambulantes.",
-            "type": "Sobrenatural",
+            "type": "Weirdness",
             "goal": "Encontrar nuevos Corazones Esmeralda",
             "notables": "- Ammón (médico, compasivo, cambiado). \n- Kambree (investigadora, alegre, organizada). \n- Kairi (xeno, médica, sombría). \n- Tar Hawkson (místico, antiguo, cambiado, poderoso).",
             "turf": "El Templo en Amerath (Cuartel general).",
@@ -301,7 +301,7 @@
         "Nightspeakers": {
             "name": "Oradores Nocturnos",
             "description": "Místicos con oscuras inclinaciones empeñados en encontrar un conjunto de peligrosos artefactos precursores.",
-            "type": "Sobrenatural",
+            "type": "Weirdness",
             "goal": "Conseguir la Llave de Aleph con discreción",
             "notables": "- Doraam (enmascarado, misterioso, motivado).\n- Oin-rai (luchador, físico, enorme, brutal). \n- Ismissa (con túnica, desarmada, místicamente potente). \n- Todos cuentan como pequeñas pandillas en la batalla.",
             "turf": "Blackstarr, un acorazado escondido en el sistema Brekk (Cuartel general).",
@@ -314,7 +314,7 @@
         "Sah'iir": {
             "name": "Sah'iir",
             "description": "Xenos altos y de piel de ébano, que viajan con sirvientes de ojos vendados que hablan por ellos. Le dieron a la Hegemonía la red ansible. Tienen espeluznantes naves de metal negro. Son muy ricos y trabajan como familias de comerciantes.",
-            "type": "Sobrenatural",
+            "type": "Weirdness",
             "goal": "Encontrar el ansible Ur",
             "notables": "- Ren 3-Meti (matriarca, xeno, astuta, líder). \n- Iisoo 7-Chim (comerciante, exploradora, xeno, humanitaria). \n- Wi 13-Meti (compañero de Ren, xeno, ambicioso, engañoso, marcado).",
             "turf": "La Embajada de Sah’iir, comprada recientemente en Warren (Cuartel general). Estaciones de trabajo en cada punto de la red ansible.",
@@ -340,7 +340,7 @@
         "Starless Veil": {
             "name": "Velo Sin Estrellas",
             "description": "Contrainteligencia hegemónica y espías. Están enemistados con la Casa Malklaith. Tratan de socavar al gobernador para justificar un cambio en el control de la Casa.",
-            "type": "Hegemonia",
+            "type": "Hegemony",
             "goal": "Causar disturbios civiles en Warren",
             "notables": "- Joina Starlight (líder, analista, táctica, encantadora). \n- Agente Phasic (infiltrado, ingeniero, temerario). \n- Agente N'Paya Wayline (diplomática, conectada, coleccionista).",
             "turf": "El Velo no tiene territorio, excepto alguna casa segura o lugar ocasional para recargar y rearmarse durante las misiones.",
@@ -353,7 +353,7 @@
         "Starsmiths Guild": {
             "name": "Gremio de los Herreros Estelares",
             "description": "Mantienen los portales de salto, los carriles hiperespaciales y construyen naves. Todas las naves en el espacio hegemónico deben estar certificadas y registradas en el Gremio de Herreros Estelares, pero los papeles falsificados son muy comunes.",
-            "type": "Hegemonia",
+            "type": "Hegemony",
             "goal": "Encontrar otra llave para sintonizar Rin–Holt",
             "notables": "- Dorae White (director ejecutivo, laborioso, confiable, adicto al trabajo). -\n Kir M’rikk’lik (oficial técnica, xeno, inventora, experimentadora). -\n Nash (jefe de operaciones, brusco, sobrecargado de trabajo). -\n Rip Onister (experta en portales, curiosa, tímida, solitaria).",
             "turf": "Astilleros Iota (Cuartel general). Todos los puertos espaciales principales.",
@@ -366,7 +366,7 @@
         "Suneaters": {
             "name": "Comesoles",
             "description": "Arqueólogos de Ur y científicos obsesionados con recrear la tecnología de los portales de salto. Buscan extinguir una estrella para perseguir sus objetivos.",
-            "type": "Sobrenatural",
+            "type": "Weirdness",
             "goal": "Devorar Iota-2 y almacenar energía",
             "notables": "- Elil (astrofísico, fanático, brillante). Ruba (arqueóloga, mística, vidente). Racel (ingeniera, leal, conflictiva). Rygar Z'tann (místico, guardia, distorsionador de gravedad).",
             "turf": "Una ruina Ur en Lithios (Cuartel general). Varios almacenes en Ocaso",
@@ -377,9 +377,9 @@
             "situation": "Muchos son exgremiales o místicos que han invertido décadas de dinero y estudio en su causa. Si tienen éxito en su misión de extraer energía de Iota-2, el hegemón otorgaría instantáneamente el estatus de Gremio a los Comesoles, incluso si todos en Iota perecen. Los Comesoles consideran que vale la pena el riesgo."
         },
         "The Agony": {
-            "name": "La Agonoía",
+            "name": "La Agonía",
             "description": "Secta de humanos que se infectan a sí mismos con criaturas de la Senda para acceder al universo de maneras inquietantes. Llamada así por el dolor que la mayoría soporta a cambio de sus habilidades.",
-            "type": "Sobrenatural",
+            "type": "Weirdness",
             "goal": "Mover el planeta Omega hacía Mem",
             "notables": "- Lexal (mística, adicta, hambrienta de poder, alada). \n- Iritha (mística, de muchas extremidades, brillante, poderosa, potente). -\n Noro (místico, calculador, cautivador, alargado).",
             "turf": "Una plataforma que orbita el Planeta Omega (Cuartel general). Capillas secretas en Mem, Sonhandra y Lithios.",
@@ -418,7 +418,7 @@
         "Vigilance": {
             "name": "Vigilancia",
             "description": "Místicos guerreros con artefactos espadas, que buscan hacer cumplir un antiguo código de justicia en cualquiera al que crean que le hace falta.",
-            "type": "Sobrenatural",
+            "type": "Weirdness",
             "goal": "Destruir el campamento de Base I",
             "notables": "- Quai-Rosh (anciano, místico, crítico). \n- Aayli Spacerunner (anciana, estoica, guerrera). \n- Ulek Spacedancer (aprendiz, impulsivo, amistoso).",
             "turf": "El Primer Templo en Aketi (Cuartel general).",
@@ -431,11 +431,11 @@
         "Vignerons": {
             "name": "Viticultures",
             "description": "Un pequeño puñado de buscadores de inmortalidad que utilizan implantes de artefactos tecnológicos y productos químicos destilados de los vivos; varios de ellos han existido durante cientos de años. La mayoría eran poderosos antes de su transformación, aunque ahora ocultan sus verdaderas identidades.",
-            "type": "Sobrenatural",
+            "type": "Weirdness",
             "goal": "Abducir y convertir en guerreros de elite",
             "notables": "- Asphodel (general, impecable, calculador, voraz). \n- Nehemías (guerrero, antiguo, brutal, enorme, rápido). \n- Morwenna (mística, selectiva, apasionante).",
             "turf": "Anodino, una casa de placer en Amerath (Cuartel general). Óxido, una casa de subastas en Sonhandra.",
-            "assets": "Algunas fragatas sofisticadas. Siglos de experiencia. Una pequeña reserva de líquido de extensión de vida. Gana eficacia por un tiempo después de tomar la sustancia.",
+            "assets": "Algunas fragatas sofisticadas. Siglos de experiencia. Una pequeña reserva de líquido dea extensión de vida. Gana eficacia por un tiempo después de tomar la sustancia.",
             "quirks": "Debido a que el material genético cosechado en sus matanzas debe ser adecuado para el receptor, los Viticultores solo cazan objetivos humanos.",
             "allies": "La Agonía.",
             "enemies": "Iglesia de la Llama Estelar, Vigilancia.",
@@ -470,7 +470,7 @@
         "Yaru (Makers Guild)": {
             "name": "Yaru (Gremio de Fabricantes)",
             "description": "Un gremio que obliga a crecer a los clones para usarlos como mano de obra. Los clones son de corta duración, tienen un símbolo en la frente y supuestamente apenas son sintientes. La gente se siente incómoda con los clones.",
-            "type": "Hegemonia",
+            "type": "Hegemony",
             "goal": "Criar soldados clon para a Legión Perdida",
             "notables": "- Foler Atherton (biólogo, oculto). \n- Bal Yn (genetista, altiva). Rech (sabio, frío). \n- Todos los clones progenitores sin identificar.",
             "turf": "Guardería Yaru autorizada en Lithios (Cuartel general). Centro secreto de investigación en Amerath.",
