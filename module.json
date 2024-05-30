@@ -42,5 +42,6 @@
     }
   ],
   "url": "https://github.com/chainsawfever/sav-translation-es",
-  "manifest": "https://raw.githubusercontent.com/chainsawfever/sav-translation-es/main/module.json"
+  "manifest": "https://raw.githubusercontent.com/chainsawfever/sav-translation-es/main/module.json",
+  "download": "https://github.com/chainsawfever/sav-translation-es/archive/refs/tags/v1.0.1.5.zip"
 }
