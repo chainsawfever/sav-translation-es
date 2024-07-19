@@ -26,19 +26,6 @@
             "enemies": "Navajas Cenizas, Iglesia de la Llama Estelar, Legión Perdida, La Vorágine.",
             "situation": "Tallon ganó muchos elogios en el campo de batalla, pero juró limpiar al ejército hegemónico del nepotismo cuando su mando fue sacrificado a la hija de un Noble. Utiliza a su teniente psíquica Liyara, cuya habilidad mística es secreta, para examinar a los oficiales y colocar en silencio a los legionarios leales a él en posiciones de poder."
         },
-        "Legion": {
-            "name": "Legión",
-            "description": "Militares hegemónicos que representan la ley en cualquier lugar fuera del planeta. \nOBJETIVO SECREO: Prepara un golpe de estado.",
-            "type": "Hegemony",
-            "goal": "Limpiar la legión de cualquier persona desleal",
-            "notables": "- Tallon «el Carnicero» (comandante, disciplinado, imponente, cruel). \n- Liyara (teniente, psíquica, cambiada, misteriosa, leal). \n- Thrace (piloto estrella, imprudente, jugadora, fiel). \n- Wick (espía, xeno, ilegible, misterioso, fiel).",
-            "turf": "El Scorpio (acorazado, Cuartel general). Astilleros navales en todo el sector. Puestos de avanzada en instalaciones gubernamentales y públicas, y carriles comerciales.",
-            "assets": "Una legión de la Guardia Hegemónica. El Scorpio (acorazado). Una psíquica ilegal.",
-            "quirks": "Hay extrañamente pocos xenos entre la Legión.",
-            "allies": "Casa Malklaith, Gremio de Herreros Estelares.",
-            "enemies": "Navajas Cenizas, Iglesia de la Llama Estelar, Legión Perdida, La Vorágine.",
-            "situation": "Tallon ganó muchos elogios en el campo de batalla, pero juró limpiar al ejército hegemónico del nepotismo cuando su mando fue sacrificado a la hija de un Noble. Utiliza a su teniente psíquica Liyara, cuya habilidad mística es secreta, para examinar a los oficiales y colocar en silencio a los legionarios leales a él en posiciones de poder."
-        },
         "Acolytes of Brashkadesh": {
             "name": "Acólitos de Brashkadesh",
             "description": "Evitan la individualidad, y todos los iniciados adoptan el mismo atuendo y el nombre «Ashkad», en la búsqueda de la perfección a cualquier precio.",
