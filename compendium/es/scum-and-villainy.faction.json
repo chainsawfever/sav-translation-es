@@ -39,19 +39,6 @@
             "enemies": "Navajas Cenizas, Iglesia de la Llama Estelar, Legión Perdida, La Vorágine.",
             "situation": "Tallon ganó muchos elogios en el campo de batalla, pero juró limpiar al ejército hegemónico del nepotismo cuando su mando fue sacrificado a la hija de un Noble. Utiliza a su teniente psíquica Liyara, cuya habilidad mística es secreta, para examinar a los oficiales y colocar en silencio a los legionarios leales a él en posiciones de poder."
         },
-        "Acolytes of Brashkadesh": {
-            "name": "Acólitos de Brashkadesh",
-            "description": "Evitan la individualidad, y todos los iniciados adoptan el mismo atuendo y el nombre «Ashkad», en la búsqueda de la perfección a cualquier precio.",
-            "type": "Weirdness",
-            "goal": "Convertir toda una fábrica a su religión",
-            "notables": "- Ashkad (carismática, apasionada, idealista). \n- Ashkad (ambicioso, deshonesto, musculado). \n- Ashkad (místico, devoto, artístico). \n- Ashkad (técnica, experta, mentirosa, rica).",
-            "turf": "",
-            "assets": "Un artefacto Ur con el que todos los Acólitos han armonizado, llamado el Pilar de la Verdad.",
-            "quirks": "Armonizar con el Pilar permite a los Acólitos comunicarse entre sí e invocar las habilidades y recuerdos de otros Acólitos, que pueden actuar a través de ellos.",
-            "allies": "Mendicantes",
-            "enemies": "Navajas Cenizas, Gremio de Ingenieros.",
-            "situation": "Los Acólitos están listos para comenzar la siguiente fase de crecimiento de sus seguidores, pero el Pilar requiere reservas de energía masivas para mantenerse en sintonía con más personas. Planean adoctrinar la fuerza laboral de toda una planta de energía, para reutilizar la planta y así alimentar el Pilar de la Verdad."
-        },
         "Ashen Knives": {
             "name": "Navajas Cenizas",
             "description": "Aunque alguna vez fueron austeros y estuvieron dispuestos a luchar, ahora las Navajas Cenizas son una mafia decadente centrada en las drogas, el juego y los placeres de la carne.",
