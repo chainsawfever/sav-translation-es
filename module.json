@@ -2,10 +2,10 @@
   "id": "sav-translation-es",
   "title": "Scum And Villany Spanish Translation",
   "description": "Este módulo contiene la traducción del sistema de Escoria y Villeza y sus compendios",
-  "version": "0.0.1",
+  "version": "1.0.1.8",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11.315"
+    "minimum": "11.315",
+    "verified": "12.329"
   },
   "esmodules": [
     "register.js"
