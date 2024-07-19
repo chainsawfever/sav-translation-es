@@ -34,7 +34,7 @@ Todas las traducciones exepto:
 
 # Version 1.0.1.7
 
--Fix omosines en algunos nombre de los notables de los planetas
+-Fix omisines en algunos nombre de los notables de los planetas
 
 # Version 1.0.1.8
 
